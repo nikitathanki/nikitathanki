@@ -144,14 +144,6 @@ This structure separates logic, UI, and database for better scalability and code
 3. Update the `Web.config` connection string  
 4. Press **F5** to run the website  
 
-### 📸 UI Preview
-*(Add your screenshots later)*  
-- Home Page  
-- Product List  
-- Product Details  
-- Cart & Checkout  
-- Orders Page  
-
 ---
 
 ## 🧾 Author  
@@ -159,7 +151,7 @@ This structure separates logic, UI, and database for better scalability and code
 🎓 BCA Student | Aspiring Full Stack Developer | UI/UX Enthusiast  
 📍 Gujarat, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/nikita-thanki-543a7b397)  
-📧 your-email@gmail.com  
+📧 thankinikita32@gmail.com  
 
 ---
 
