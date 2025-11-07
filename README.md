@@ -130,13 +130,6 @@ This project handles everything from user registration to checkout, designed wit
 2. Update `Web.config` connection string  
 3. Run the website (F5) in Visual Studio  
 
-### 📸 Preview
-*(Add screenshots later)*  
-- Home Page  
-- Product List  
-- Product Details  
-- Cart  
-- Checkout  
 
 ---
 
