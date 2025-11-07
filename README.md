@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Connect With Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/nikita-thanki-543a7b397/)]
+🔗 [LinkedIn](https://www.linkedin.com/in/nikita-thanki-543a7b397/)
 
 📧 thankinikita32@gmail.com
 
