@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Connect With Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/Nikita Thanki)  
+🔗 [LinkedIn](https://www.linkedin.com/in/NikitaThanki)  
 📧 thankinikita32@gmail.com
 
 ⭐ *“Building logic, designing with purpose, and learning something new every day.”*
