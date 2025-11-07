@@ -144,7 +144,7 @@ This project handles everything from user registration to checkout, designed wit
 👩‍💻 **Nikita Thanki**  
 🎓 BCA Student | Aspiring Full Stack Developer  
 🌐 [LinkedIn](https://www.linkedin.com/in/nikita-thanki-543a7b397)  
-📧 your-email@gmail.com  
+📧 thankinikita32@gmail.com  
 
 ---
 
