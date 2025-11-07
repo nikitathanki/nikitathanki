@@ -38,11 +38,11 @@ I’m **Nikita Thanki** — a **BCA student** and **aspiring Full Stack Develope
 ## 🚀 Featured Projects
 - 🛍️ **Crème Studio** — Luxury **e-commerce** (ASP.NET Web Forms + SQL Server)  
   *Premium UI, smooth animations, secure DB connectivity*  
-  Repo: _add link when public_
+  Repo: 
 
 - 🏫 **Institute Management System** — **C#.NET, 3-tier** architecture  
   *Student/Staff/Academic modules with connected forms & Guna UI*  
-  Repo: _add link when public_
+  Repo: 
 
 ---
 
