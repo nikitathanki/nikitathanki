@@ -68,7 +68,7 @@ I’m **Nikita Thanki** — a **BCA student** and **aspiring Full Stack Develope
 
 ## 📫 Connect
 - **LinkedIn:** <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397">nikita-thanki-543a7b397</a>  
-- **Email:** your-email@gmail.com
+- **Email:** thankinikita32@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFE0C2,100:D4AF37" />
