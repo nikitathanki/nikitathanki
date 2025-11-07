@@ -47,7 +47,7 @@
 
 ### 📋 Overview
 **Institute Management System (IMS)** is a desktop-based academic management application developed using **C#.NET** and **SQL Server**.  
-It streamlines institute operations through modules for students, staff, academics, exams, fees, and reports — all connected through **3-tier architecture** with modern UI using **Guna UI Framework**.
+It streamlines institute operations through modules for students, staff, academics, exams, fees, and reports — all connected through **2-tier architecture** with modern UI using **Guna UI Framework**.
 
 ### 🎯 Objective
 To automate daily academic and administrative processes, reduce paperwork, and create an efficient, digital record system for institutions.
