@@ -44,8 +44,6 @@ I’m **Nikita Thanki** — a **BCA student** and **aspiring Full Stack Develope
   *Student/Staff/Academic modules with connected forms & Guna UI*  
   Repo: _add link when public_
 
-> Pin these repos on your profile (Customize your pins → select your top projects).
-
 ---
 
 ## 📈 GitHub Stats
