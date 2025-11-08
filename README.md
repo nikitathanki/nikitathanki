@@ -163,17 +163,6 @@ This structure separates logic, UI, and database for better scalability and code
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&hide_title=true&rank_icon=github&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=default" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FDF6F0,100:D4AF37" />
 </p>
