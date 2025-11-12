@@ -91,11 +91,6 @@ A luxury-themed **ASP.NET Web Forms** e-commerce website with a 3-tier architect
   <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:thankinikita32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ⭐ **Fun fact:** I love bringing structure to ideas — turning small concepts into fully functional systems.  
