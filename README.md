@@ -3,8 +3,6 @@
      Polished • Animated • Stable
      Paste directly into your README.md
    =========================== -->
-
-<p align="center">
  <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
   <defs>
@@ -97,7 +95,7 @@
   </g>
 </svg>
 
-</p>
+
 
 <h1 align="center">Hi there 👋 I'm <strong>Nikita Thanki</strong></h1>
 <h4 align="center">BCA Student · Aspiring Full Stack Developer · UI/UX Enthusiast</h4>
