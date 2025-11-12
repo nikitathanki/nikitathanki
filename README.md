@@ -66,7 +66,7 @@ ASP.NET | SQL Server | HTML | CSS | JavaScript | ADO.NET
 
 ## 📁 **Projects**
 - [Institute Management System](https://github.com/nikitathanki/Institute-Management-System)  
-- [Crème Studio](https://github.com/nikitathanki/Creme-Studio)  
+- [Crème Studio](https://github.com/nikitathanki/Cremestudio)  
 
 ---
 
