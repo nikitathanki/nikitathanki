@@ -17,8 +17,6 @@
   </a>
 </p>
 
----
-
 # 👩‍💻 About Me
 I'm a **BCA student** passionate about developing **modern, responsive, and efficient** web and desktop applications using **ASP.NET, SQL Server, HTML, CSS, JavaScript, and C# (for backend logic)**.  
 I enjoy combining logic and creativity to build systems that are both functional and visually elegant.
