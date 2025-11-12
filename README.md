@@ -77,9 +77,9 @@ I build modern, responsive web and desktop applications using **ASP.NET (Web For
 ---
 
 ## 📁 Links & Repositories
-- 🔹 Institute Management System — `https://github.com/nikitathanki/INSTITUTEMANAGEMENT`  
-- 🔹 Crème Studio (ASP.NET Website) — `https://github.com/nikitathanki/Cremestudio`  
-- 🔹 Portfolio / Projects — *(add your live demo or portfolio URL here)*
+- 🔹 Institute Management System — (`https://github.com/nikitathanki/INSTITUTEMANAGEMENT`)  
+- 🔹 Crème Studio (ASP.NET Website) — (`https://github.com/nikitathanki/Cremestudio`)  
+- 🔹 E-mail-('thankinikita32@gmail.com')
 
 ---
 
