@@ -3,7 +3,7 @@
      Polished • Animated • Stable
      Paste directly into your README.md
    =========================== -->
- <?xml version="1.0" encoding="UTF-8"?>
+
 <svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
   <defs>
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
