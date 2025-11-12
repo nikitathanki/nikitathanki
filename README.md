@@ -101,11 +101,4 @@ I love turning small ideas into full systems — structured, functional, and bea
 <b>“Code with clarity. Design with intention.”</b>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&color=B76E79&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Nikita+Thanki;BCA+Student+%7C+Full+Stack+Developer;UI%2FUX+Enthusiast+%7C+Creative+Thinker" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="160" alt="Girl coding" />
-</p>
 
