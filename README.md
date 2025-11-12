@@ -1,95 +1,106 @@
-<!-- ========================== -->
-<!--  README — Nikita Thanki     -->
-<!-- ========================== -->
-
-<h1 align="center">Hi there 👋, I'm Nikita Thanki</h1>
-<h3 align="center">BCA Student | Aspiring Full Stack Developer | UI/UX Enthusiast</h3>
+<!-- ===========================
+     README — Nikita Thanki
+     Polished • Animated • 3D Card
+     Paste this into README.md
+   =========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&pause=1000&color=B76E79&center=true&vCenter=true&width=780&lines=Building+modern+and+responsive+applications;Turning+ideas+into+beautiful+user+experiences;Learning+and+growing+every+day" alt="Typing animation" />
+  <!-- Animated Gradient Background -->
+  <img src="https://raw.githubusercontent.com/nikitathanki/nikitathanki/main/header-gradient.svg" alt="gradient" style="width:100%;max-height:220px;object-fit:cover;border-radius:12px" />
+</p>
+
+<h1 align="center">Hi there 👋 I'm <strong>Nikita Thanki</strong></h1>
+<h4 align="center">BCA Student · Aspiring Full Stack Developer · UI/UX Enthusiast</h4>
+
+<p align="center">
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=800&color=B76E79&center=true&width=760&lines=Building+modern+and+responsive+applications;Designing+clean+and+scalable+systems;Learning+ASP.NET+MVC+and+advanced+C%23" alt="typing" />
+</p>
+
+<p align="center">
+  <!-- Profile 3D Card (dynamic) -->
+  <img src="https://github-profile-3d-card.vercel.app/?username=nikitathanki&theme=rose&transparent=true&v=2" alt="3D Profile Card" style="max-width:640px;width:100%;border-radius:16px;box-shadow:0 8px 30px rgba(183,110,121,0.12)" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&color=b76e79" alt="profile views" />
   &nbsp;&nbsp;
   <a href="https://github.com/nikitathanki">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitathanki&layout=compact&hide_border=true" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitathanki&layout=compact&hide_border=true&langs_count=6" />
   </a>
 </p>
 
-# 👩‍💻 About Me
-I'm a **BCA student** passionate about developing **modern, responsive, and efficient** web and desktop applications using **ASP.NET, SQL Server, HTML, CSS, JavaScript, and C# (for backend logic)**.  
-I enjoy combining logic and creativity to build systems that are both functional and visually elegant.
+---
+
+## 👩‍💻 About Me
+I build modern, responsive web and desktop applications using **ASP.NET (Web Forms & MVC), C# (backend logic), SQL Server, HTML, CSS, and JavaScript**. I focus on clean architecture, UI clarity, and maintainable code.
 
 > “Building logic, designing with purpose, and learning something new every day.”
 
 ---
 
-# 🧠 Technical Skills
+## 🧠 Technical Skills
 
 | Category      | Tools / Frameworks |
 |---------------|--------------------|
 | Frontend      | HTML, CSS, JavaScript, Bootstrap |
-| Backend       | ASP.NET, C# |
+| Backend       | ASP.NET (Web Forms & MVC), C# |
 | Database      | SQL Server, MySQL |
 | Architecture  | 2-Tier (Desktop), 3-Tier (Web) |
-| UI Framework  | Guna.UI2 |
+| UI Framework  | Guna.UI2 (WinForms) |
 | IDE           | Visual Studio 2019, Visual Studio Code |
 | Version Ctrl  | Git, GitHub |
-| Design Tools  | Canva, Figma (UI/UX basics) |
+| Design Tools  | Figma (UI basics), Canva |
 
 ---
 
-# 🏫 Institute Management System (2-Tier Desktop Application)
+## 🏫 Projects — Key Work
 
-**Overview**  
-A desktop-based application built using **C#.NET (Windows Forms)** and **SQL Server** to automate institute operations like admissions, staff management, exams, and fees.
+### Institute Management System (2-Tier Desktop Application)
+**Overview:** Desktop app built with **C#.NET (Windows Forms)** and **SQL Server** to automate admissions, staff, exams, fee management, and reports.  
+**Highlights:** role-based login, CRUD operations, ADO.NET connectivity, polished UI with Guna.UI2.  
+**Tech:** C#.NET | SQL Server | Visual Studio | Guna.UI2
 
-**Highlights**
-- 2-Tier architecture (ADO.NET)  
-- Role-based login and CRUD operations  
-- Real-time database connection  
-- Modern UI built with **Guna UI2**
-
-**Tech Stack:** C#.NET | SQL Server | Visual Studio | Guna.UI2  
-
----
-
-# 🛍️ Crème Studio – E-Commerce Website (3-Tier Web Application)
-
-**Overview**  
-A luxury-themed **ASP.NET Web Forms** e-commerce website with a 3-tier architecture, separating the **UI**, **Business Logic**, and **Data Access** layers.  
-
-**Highlights**
-- Product listing, wishlist, and checkout  
-- User login, profile, and order management  
-- Session-based cart system  
-- Luxury **rose-gold and beige animated UI**
-
-**Tech Stack:** ASP.NET | SQL Server | HTML | CSS | JavaScript | ADO.NET  
+### Crème Studio — E-Commerce Website (3-Tier Web Application)
+**Overview:** Luxury-themed e-commerce site built with **ASP.NET Web Forms** using a 3-tier architecture (UI → Business Logic → Data Access).  
+**Highlights:** product listing, wishlist, session cart, checkout, user accounts and order history, animated rose-gold UI.  
+**Tech:** ASP.NET Web Forms | C# (backend) | SQL Server | HTML | CSS | JavaScript | ADO.NET
 
 ---
 
-# 🌱 Currently Learning
-- ASP.NET MVC Framework  
-- Advanced C# and LINQ  
-- UI/UX Design  
-- Database Optimization  
+## 🌱 Currently Learning
+- ASP.NET MVC and Razor Pages  
+- Advanced C# (LINQ, async/await, SOLID patterns)  
+- UI/UX design workflows and accessibility  
+- Database indexing and query optimization
 
 ---
 
-# 📁 Projects
-- 🔸 [Institute Management System](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)  
-- 🔸 [Crème Studio (E-Commerce Website)](https://github.com/nikitathanki/Cremestudio)  
+## 📁 Links & Repositories
+- 🔹 Institute Management System — `https://github.com/nikitathanki/INSTITUTEMANAGEMENT`  
+- 🔹 Crème Studio (ASP.NET Website) — `https://github.com/nikitathanki/Cremestudio`  
+- 🔹 Portfolio / Projects — *(add your live demo or portfolio URL here)*
 
 ---
 
-# 🤝 Connect
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="140" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=rose_pine&hide_border=true" height="140" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=onedark&no-frame=true" alt="trophies" />
+</p>
+
 ---
 
-⭐ **Fun fact:** I love bringing structure to ideas — turning small concepts into fully functional systems.  
+## 📫 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:thankinikita32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+
+⭐ **Fun fact:** I love turning small ideas into full systems — clean logic, calm UI, usable products.  
 💫 *“Code with clarity. Design with intention.”*
