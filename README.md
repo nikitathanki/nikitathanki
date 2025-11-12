@@ -4,6 +4,58 @@
 
 <p align="center">
   <img src="assets/banner.svg" alt="Nikita Thanki - Animated Banner" width="100%"/>
+<!-- assets/banner.svg - Vibrant animated gradient banner for Nikita -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 300" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff6b6b">
+        <animate attributeName="stop-color" values="#ff6b6b;#f39c12;#6a11cb;#1dd1a1;#ff6b6b" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#6a11cb">
+        <animate attributeName="stop-color" values="#6a11cb;#1dd1a1;#ff6b6b;#f39c12;#6a11cb" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="softblur">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="300" fill="url(#g)"/>
+
+  <!-- floating soft shapes -->
+  <g opacity="0.14" filter="url(#softblur)">
+    <circle cx="160" cy="70" r="80" fill="#ffffff"/>
+    <circle cx="440" cy="200" r="120" fill="#ffffff"/>
+    <rect x="980" y="40" rx="28" ry="28" width="300" height="170" fill="#ffffff"/>
+  </g>
+
+  <!-- dynamic ribbon -->
+  <path d="M-200 200 C 120 60, 360 260, 700 120 C 1040 -20, 1260 200, 1700 120 L1700 300 L-200 300 Z"
+        fill="rgba(255,255,255,0.06)">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+        M-200 200 C 120 60, 360 260, 700 120 C 1040 -20, 1260 200, 1700 120 L1700 300 L-200 300 Z;
+        M-200 220 C 140 100, 420 160, 740 140 C 1060 120, 1240 240, 1700 160 L1700 300 L-200 300 Z;
+        M-200 180 C 100 40, 340 200, 680 100 C 1020 0, 1240 220, 1700 120 L1700 300 L-200 300 Z;
+        M-200 200 C 120 60, 360 260, 700 120 C 1040 -20, 1260 200, 1700 120 L1700 300 L-200 300 Z"/>
+  </path>
+
+  <!-- main text -->
+  <text x="70" y="120" font-family="Inter,Segoe UI, Roboto, Arial" font-size="46" font-weight="700" fill="#ffffff">
+    Nikita Thanki
+  </text>
+  <text x="70" y="160" font-family="Inter,Segoe UI, Roboto, Arial" font-size="20" fill="#ffffff" opacity="0.95">
+    BCA Student • Aspiring Full Stack Developer • UI/UX Learner
+  </text>
+
+  <!-- projects card -->
+  <g transform="translate(1060,40)" opacity="0.95">
+    <rect x="0" y="0" rx="12" width="300" height="160" fill="rgba(255,255,255,0.06)"/>
+    <text x="22" y="48" font-family="Inter, Arial" font-size="18" fill="#fff">Featured</text>
+    <text x="22" y="76" font-family="Inter, Arial" font-size="12" fill="#fff" opacity="0.95">Crème Studio • Institute Management</text>
+  </g>
+</svg>
 </p>
 
 <h1 align="center">
