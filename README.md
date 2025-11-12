@@ -97,7 +97,7 @@ A luxury-themed e-commerce website developed with **ASP.NET Web Forms**, followi
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikitathanki" target="_blank">
+  <a href="www.linkedin.com/in/nikita-thanki-543a7b397" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
