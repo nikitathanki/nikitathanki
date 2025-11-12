@@ -9,12 +9,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21jdHl3YW53czYwZjZsZnlsc3N3ajJkN3M1b3ZyMzhqNm14eHcxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </p>
-
-
-
-
-
-
 ---
 
 <h2 align="center">💻 About Me</h2>
@@ -84,8 +78,6 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
   </a>
 </p>
 
-
-
 <h3 align="center">
   <span style="background: linear-gradient(90deg,#b76e79,#d4af37); -webkit-background-clip: text; color: transparent;">
     ⭐ Fun Fact ⭐
@@ -96,4 +88,3 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 I love turning small ideas into full systems — <b>structured, functional, and beautiful.</b><br>
 <span style="color:#b76e79;"><b>“Code with clarity. Design with intention.”</b></span>
 </p>
-
