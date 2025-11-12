@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21jdHl3YW53czYwZjZsZnlsc3N3ajJkN3M1b3ZyMzhqNm14eHcxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21jdHl3YW53czYwZjZsZnlsc3N3ajJkN3M1b3ZyMzhqNm14eHcxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="avatar gif"/>
 </p>
 
 <h2 align="center">💻 About Me</h2>
@@ -25,7 +25,7 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 <h2 align="center">🧠 Technical Skills</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" alt="skills icons" />
 </p>
 
 | Category | Tools / Frameworks |
@@ -61,7 +61,7 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=20&pause=1500&color=D4AF37&center=true&width=480&lines=ASP.NET+MVC+and+Razor+Pages;Advanced+C%23+and+LINQ;UI%2FUX+Design+and+Animation;Database+Performance+Optimization" />
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=20&pause=1500&color=D4AF37&center=true&width=480&lines=ASP.NET+MVC+and+Razor+Pages;Advanced+C%23+and+LINQ;UI%2FUX+Design+and+Animation;Database+Performance+Optimization" alt="currently learning" />
 </p>
 
 ---
@@ -69,11 +69,12 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/nikita-thanki-543a7b397" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:thankinikita32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:thankinikita32@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
