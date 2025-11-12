@@ -57,14 +57,6 @@
 
 ---
 
-### 🌟 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=rose_pine&hide_border=true" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=rose_pine&hide_border=true" height="150px" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 <p align="center">
   <a href="www.linkedin.com/in/nikita-thanki-543a7b397" target="_blank">
@@ -84,6 +76,6 @@
 </h3>
 
 <p align="center">
-I love turning ideas into complete systems — **structured, functional, and beautiful**.<br>
+I love turning ideas into complete systems — <b>**structured, functional, and beautiful**.<b><br>
 <span style="color:#b76e79;"><b>“Every design has logic; every logic deserves design.”</b></span>
 </p>
