@@ -7,8 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="120" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150" />
 </p>
+
 
 
 ---
