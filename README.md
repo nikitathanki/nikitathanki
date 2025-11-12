@@ -94,9 +94,12 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 
 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=2500&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=⭐+Fun+Fact+⭐;I+turn+small+ideas+into+full+systems;Structured+.+Functional+.+Beautiful;Code+with+clarity.+Design+with+intention." alt="Fun Fact Typing Animation" />
-</h3>
+<h3 align="center" style="color:#b76e79;">⭐ Fun Fact ⭐</h3>
+
+<p align="center" style="font-size:16px;">
+I love turning small ideas into full systems — <b>structured, functional, and beautiful.</b><br>
+<span style="color:#d4af37;"><b>“Code with clarity. Design with intention.”</b></span>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="160" alt="Girl coding" />
