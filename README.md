@@ -87,7 +87,7 @@ I’m a **BCA student** building modern and efficient web and desktop applicatio
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikitathanki" target="_blank">
+  <a href="www.linkedin.com/in/nikita-thanki-543a7b397" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
