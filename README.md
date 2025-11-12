@@ -1,63 +1,31 @@
+<!-- =======================================================
+      ✨ Nikita Thanki | Animated, Colorful GitHub Profile ✨
+========================================================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=34&color=B76E79&center=true&vCenter=true&width=760&lines=Hi+There!+%F0%9F%91%8B+I'm+Nikita+Thanki;BCA+Student+%7C+Aspiring+Full+Stack+Developer;UI%2FUX+Designer+%7C+Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&color=B76E79&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Nikita+Thanki;BCA+Student+%7C+Full+Stack+Developer;UI%2FUX+Enthusiast+%7C+Creative+Thinker" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <!-- Pastel Rose-Gold Animated Banner -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 260" preserveAspectRatio="xMidYMid slice">
-    <defs>
-      <linearGradient id="g" x1="0" x2="1">
-        <stop offset="0" stop-color="#f3e5db">
-          <animate attributeName="stop-color" values="#f3e5db;#fdf6f0;#b76e79;#d4af37;#f3e5db" dur="12s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="1" stop-color="#b76e79">
-          <animate attributeName="stop-color" values="#b76e79;#d4af37;#fdf6f0;#b76e79;#f3e5db" dur="12s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-      <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
-    </defs>
-
-    <rect width="1400" height="260" fill="url(#g)"/>
-
-    <g opacity="0.15" filter="url(#soft)">
-      <circle cx="180" cy="80" r="80" fill="#fff"/>
-      <circle cx="480" cy="180" r="120" fill="#fff"/>
-      <rect x="980" y="40" rx="28" ry="28" width="300" height="170" fill="#fff"/>
-    </g>
-
-    <path d="M-200 200 C 120 60, 360 260, 700 120 C 1040 -20, 1260 200, 1700 120 L1700 260 L-200 260 Z"
-          fill="rgba(255,255,255,0.1)">
-      <animate attributeName="d" dur="14s" repeatCount="indefinite"
-        values="
-          M-200 200 C 120 60, 360 260, 700 120 C 1040 -20, 1260 200, 1700 120 L1700 260 L-200 260 Z;
-          M-200 220 C 140 100, 420 160, 740 140 C 1060 120, 1240 240, 1700 160 L1700 260 L-200 260 Z;
-          M-200 180 C 100 40, 340 200, 680 100 C 1020 0, 1240 220, 1700 120 L1700 260 L-200 260 Z;
-          M-200 200 C 120 60, 360 260, 700 120 C 1040 -20, 1260 200, 1700 120 L1700 260 L-200 260 Z"/>
-    </path>
-
-    <text x="70" y="130" font-family="Playfair Display, serif" font-size="46" font-weight="700" fill="#3b2f2f">
-      Nikita Thanki
-    </text>
-    <text x="70" y="170" font-family="Josefin Sans, sans-serif" font-size="20" fill="#3b2f2f" opacity="0.85">
-      BCA Student • Aspiring Full Stack Developer • UI/UX Learner
-    </text>
-  </svg>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21jdHl3YW53czYwZjZsZnlsc3N3ajJkN3M1b3ZyMzhqNm14eHcxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </p>
 
----
-
-## ☁️ About me
-I’m a **BCA student** passionate about building clean, aesthetic and functional web + desktop apps.  
-I specialize in **ASP.NET, C#, SQL Server**, and elegant UI design.
-
-> “Build softly. Think deeply. Design with intention.”
-
----
-
-## 🪶 Technical Skills
+<h2 align="center">💻 About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" alt="skills" />
+I’m a <b>BCA student</b> passionate about creating <b>modern, responsive, and functional</b> web & desktop applications using 
+<b>ASP.NET, C#, SQL Server, HTML, CSS, and JavaScript</b>.<br>
+I love transforming ideas into elegant systems — balancing <b>logic</b> and <b>design</b>.
+</p>
+
+<p align="center"><i>“Building logic, designing with purpose, and learning something new every day.”</i></p>
+
+---
+
+<h2 align="center">🧠 Technical Skills</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" />
 </p>
 
 | Category | Tools / Frameworks |
@@ -67,64 +35,55 @@ I specialize in **ASP.NET, C#, SQL Server**, and elegant UI design.
 | **Database** | SQL Server, MySQL |
 | **Architecture** | 2-Tier (Desktop), 3-Tier (Web) |
 | **UI Framework** | Guna.UI2 |
-| **Design Tools** | Figma, Canva, Photoshop |
 | **Version Control** | Git, GitHub |
+| **Design Tools** | Canva, Figma |
 
 ---
 
-## 💎 Projects
+<h2 align="center">🏫 Featured Projects</h2>
 
-### 🎓 Institute Management System  
-C#.NET + SQL Server desktop app for admissions, staff, exams, and fees.  
-🧩 Modern Guna UI | Role-based login | Full CRUD  
+### 🎓 Institute Management System (Desktop App)
+**Overview:** A C#.NET (Windows Forms) + SQL Server desktop app automating institute operations like admissions, staff, exams, and fees.  
+**Highlights:** 2-Tier architecture, role-based login, CRUD, real-time DB, modern UI with Guna.UI2.  
+**Tech:** C#.NET · SQL Server · Visual Studio · Guna.UI2  
 🔗 [View Repository](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)
 
 ---
 
-### 🛍️ Crème Studio — Luxury E-commerce Website  
-ASP.NET Web Forms e-commerce site with rose-gold luxury UI.  
-🎨 Product listing | Wishlist | Cart | Checkout | Profile  
+### 💎 Crème Studio – E-Commerce Website (Web App)
+**Overview:** A luxury-themed **ASP.NET Web Forms** e-commerce site with 3-Tier architecture (UI → Logic → Data).  
+**Highlights:** Product listing, wishlist, session cart, checkout, user accounts, rose-gold animated UI.  
+**Tech:** ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript  
 🔗 [View Repository](https://github.com/nikitathanki/Cremestudio)
 
 ---
 
-## 🌸 Currently Exploring
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=18&pause=1400&color=B76E79&center=true&width=560&lines=ASP.NET+MVC+and+Razor+Pages;Advanced+C%23+and+LINQ;UI%2FUX+Animation+Design;Database+Optimization+and+Security" alt="Currently exploring" />
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=rose_pine&hide_border=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=rose_pine&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=20&pause=1500&color=D4AF37&center=true&width=480&lines=ASP.NET+MVC+and+Razor+Pages;Advanced+C%23+and+LINQ;UI%2FUX+Design+and+Animation;Database+Performance+Optimization" />
 </p>
 
 ---
 
-## 🤍 Connect with me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="www.linkedin.com/in/nikita-thanki-543a7b397" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/thewordsofnikita" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-B76E79?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:thankinikita32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F3E5DB?style=for-the-badge&logo=gmail&logoColor=3B2F2F" />
+  <a href="mailto:thankinikita32@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+<h3 align="center">
+  <span style="background: linear-gradient(90deg,#b76e79,#d4af37); -webkit-background-clip: text; color: transparent;">
+    ⭐ Fun Fact ⭐
+  </span>
+</h3>
 
 <p align="center">
-  <sub>Made with peace • Designed in rose-gold • by Nikita Thanki</sub>
+I love turning small ideas into full systems — <b>structured, functional, and beautiful.</b><br>
+<span style="color:#b76e79;"><b>“Code with clarity. Design with intention.”</b></span>
 </p>
