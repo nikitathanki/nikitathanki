@@ -101,19 +101,6 @@ I build modern, responsive web and desktop apps using ASP.NET, C#, and SQL Serve
 
 ---
 
-## 📄 Resume & Portfolio
-- Resume: add your hosted resume link here  
-- Portfolio: add your portfolio site link here
-
----
-
-## 🛠 How to personalize
-1. Replace any placeholder links or text (resume, portfolio).  
-2. Add or remove featured projects.  
-3. If you want a pastel Crème Studio variant or a different banner title, say the banner text and I’ll provide an alternate SVG.
-
----
-
 <p align="center">
   <sub>Made with care • Nikita Thanki</sub>
 </p>
