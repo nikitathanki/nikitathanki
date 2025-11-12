@@ -1,26 +1,34 @@
-<!-- ===========================
-     README — Nikita Thanki
-     Clean • Animated • Copy-Paste Ready
-   =========================== -->
+<!-- =======================================================
+      ✨ Nikita Thanki | Animated, Colorful GitHub Profile ✨
+========================================================= -->
 
-<h1 align="center">Hi there 👋 I'm <strong>Nikita Thanki</strong></h1>
-<h4 align="center">BCA Student · Aspiring Full Stack Developer · UI/UX Enthusiast</h4>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=35&pause=900&color=B76E79&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Nikita+Thanki;BCA+Student+%7C+Aspiring+Full+Stack+Developer;UI%2FUX+Enthusiast+%7C+Creative+Thinker" alt="Typing intro" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=800&color=B76E79&center=true&width=760&lines=Building+modern+and+responsive+applications;Designing+clean+and+scalable+systems;Learning+ASP.NET+MVC+and+advanced+C%23" alt="typing animation" />
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="80" />
 </p>
 
 ---
 
-## 👩‍💻 About Me  
-I’m a **BCA student** passionate about developing **modern, responsive, and efficient** web and desktop applications using **ASP.NET, SQL Server, HTML, CSS, JavaScript, and C#**.  
-I enjoy creating elegant interfaces and writing logical, maintainable code.
+<h2 align="center">💻 About Me</h2>
 
-> “Building logic, designing with purpose, and learning something new every day.”
+<p align="center">
+I’m a <b>BCA student</b> passionate about creating <b>modern, responsive, and functional</b> web & desktop applications using 
+<b>ASP.NET, C#, SQL Server, HTML, CSS, and JavaScript</b>.<br>
+I love transforming ideas into elegant systems — balancing <b>logic</b> and <b>design</b>.
+</p>
+
+<p align="center"><i>“Building logic, designing with purpose, and learning something new every day.”</i></p>
 
 ---
 
-## 🧠 Technical Skills  
+<h2 align="center">🧠 Technical Skills</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" />
+</p>
 
 | Category | Tools / Frameworks |
 |-----------|--------------------|
@@ -29,71 +37,52 @@ I enjoy creating elegant interfaces and writing logical, maintainable code.
 | **Database** | SQL Server, MySQL |
 | **Architecture** | 2-Tier (Desktop), 3-Tier (Web) |
 | **UI Framework** | Guna.UI2 |
-| **IDE** | Visual Studio 2019, Visual Studio Code |
 | **Version Control** | Git, GitHub |
-| **Design Tools** | Canva, Figma (UI/UX Basics) |
+| **Design Tools** | Canva, Figma |
 
 ---
 
-## 🏫 Institute Management System (2-Tier Desktop Application)  
+<h2 align="center">🏫 Featured Projects</h2>
 
-**Overview:**  
-A desktop-based application developed using **C#.NET (Windows Forms)** and **SQL Server** to automate institute processes like admissions, staff, exams, and fees.  
-
-**Highlights:**  
-- 2-Tier architecture with ADO.NET  
-- Role-based login and CRUD operations  
-- Real-time SQL connectivity  
-- Modern UI with Guna UI2  
-
-**Tech Stack:** C#.NET | SQL Server | Visual Studio | Guna.UI2  
+### 🎓 Institute Management System (Desktop App)
+**Overview:** A C#.NET (Windows Forms) + SQL Server desktop app automating institute operations like admissions, staff, exams, and fees.  
+**Highlights:** 2-Tier architecture, role-based login, CRUD, real-time DB, modern UI with Guna.UI2.  
+**Tech:** `C#.NET` · `SQL Server` · `Visual Studio` · `Guna.UI2`  
+🔗 [View Repository](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)
 
 ---
 
-## 🛍️ Crème Studio – E-Commerce Website (3-Tier Web Application)  
-
-**Overview:**  
-A luxury-themed e-commerce website built using **ASP.NET Web Forms**, following a **3-tier architecture** (UI, Business Logic, Data Access).  
-
-**Highlights:**  
-- Product listing, wishlist, and checkout  
-- User login, profile, and order history  
-- Session-based cart system  
-- Luxury rose-gold animated UI  
-
-**Tech Stack:** ASP.NET Web Forms | SQL Server | HTML | CSS | JavaScript | ADO.NET  
+### 💎 Crème Studio – E-Commerce Website (Web App)
+**Overview:** A luxury-themed **ASP.NET Web Forms** e-commerce site with 3-Tier architecture (UI → Logic → Data).  
+**Highlights:** Product listing, wishlist, session cart, checkout, user accounts, rose-gold animated UI.  
+**Tech:** `ASP.NET Web Forms` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript`  
+🔗 [View Repository](https://github.com/nikitathanki/Cremestudio)
 
 ---
 
-## 🌱 Currently Learning  
-- ASP.NET MVC Framework  
-- Advanced C# (LINQ, async/await, SOLID principles)  
-- UI/UX Design  
-- Database Optimization  
-
----
-
-## 📁 Projects  
-- 🔹 [Institute Management System](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)  
-- 🔹 [Crème Studio (ASP.NET Website)](https://github.com/nikitathanki/Cremestudio)  
-
----
-
-## 📊 GitHub Stats  
+<h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="150" />
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=20&pause=1500&color=D4AF37&center=true&width=480&lines=ASP.NET+MVC+and+Razor+Pages;Advanced+C%23+and+LINQ;UI%2FUX+Design+and+Animation;Database+Performance+Optimization" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=dracula&hide_border=true" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=rose_pine&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=dracula&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🐍 Contribution Activity  
+<h2 align="center">🎨 Animated Contribution Graph</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
@@ -101,21 +90,29 @@ A luxury-themed e-commerce website built using **ASP.NET Web Forms**, following 
 
 ---
 
-## 🤝 Connect With Me  
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikitathanki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/nikitathanki" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nikitathanki@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/thewordsofnikita" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-b76e79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-b76e79?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
 
-⭐ **Fun fact:** I love turning small ideas into complete systems — structured, functional, and beautiful.  
-💫 *“Code with clarity. Design with intention.”*
+
+<h3 align="center">⭐ Fun Fact</h3>
+
+<p align="center">
+I love turning small ideas into full systems — structured, functional, and beautiful.<br>
+<b>“Code with clarity. Design with intention.”</b>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="220" />
+</p>
