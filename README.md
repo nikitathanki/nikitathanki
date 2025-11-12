@@ -5,8 +5,7 @@
    =========================== -->
 
 <p align="center">
-  <!-- Local hero image: upload header-gradient.svg to repo root -->
-  <img src="header-gradient.svg" alt="Nikita Thanki — hero" style="width:100%;max-height:220px;object-fit:cover;border-radius:12px" />
+  <img src="header-gradient.png" alt="Nikita Thanki — hero" style="width:100%;max-height:220px;object-fit:cover;border-radius:12px" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm <strong>Nikita Thanki</strong></h1>
