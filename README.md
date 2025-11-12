@@ -73,14 +73,6 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 
 ---
 
-<h2 align="center">🎨 Animated Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
@@ -94,13 +86,14 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 
 
 
-<h3 align="center" style="color:#b76e79;">⭐ Fun Fact ⭐</h3>
-
-<p align="center" style="font-size:16px;">
-I love turning small ideas into full systems — <b>structured, functional, and beautiful.</b><br>
-<span style="color:#d4af37;"><b>“Code with clarity. Design with intention.”</b></span>
-</p>
+<h3 align="center">
+  <span style="background: linear-gradient(90deg,#b76e79,#d4af37); -webkit-background-clip: text; color: transparent;">
+    ⭐ Fun Fact ⭐
+  </span>
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="160" alt="Girl coding" />
+I love turning small ideas into full systems — <b>structured, functional, and beautiful.</b><br>
+<span style="color:#b76e79;"><b>“Code with clarity. Design with intention.”</b></span>
 </p>
+
