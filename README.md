@@ -76,6 +76,6 @@
 </h3>
 
 <p align="center">
-I love turning ideas into complete systems — <b>**structured, functional, and beautiful**.<b><br>
+I love turning ideas into complete systems — <b>structured, functional, and beautiful.<b><br>
 <span style="color:#b76e79;"><b>“Every design has logic; every logic deserves design.”</b></span>
 </p>
