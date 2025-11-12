@@ -46,7 +46,7 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 **Overview:** A C#.NET (Windows Forms) + SQL Server desktop app automating institute operations like admissions, staff, exams, and fees.  
 **Highlights:** 2-Tier architecture, role-based login, CRUD, real-time DB, modern UI with Guna.UI2.  
 **Tech:** C#.NET · SQL Server · Visual Studio · Guna.UI2  
-🔗 [View Repository](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)
+🔗 [View Project](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)
 
 ---
 
@@ -54,7 +54,7 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 **Overview:** A luxury-themed **ASP.NET Web Forms** e-commerce site with 3-Tier architecture (UI → Logic → Data).  
 **Highlights:** Product listing, wishlist, session cart, checkout, user accounts, rose-gold animated UI.  
 **Tech:** ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript  
-🔗 [View Repository](https://github.com/nikitathanki/Cremestudio)
+🔗 [View Project](https://github.com/nikitathanki/Cremestudio)
 
 ---
 
