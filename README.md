@@ -1,71 +1,119 @@
-# 👋 Hi, I'm Nikita  
+<!-- ========================== -->
+<!--  README — Nikita Thanki     -->
+<!-- ========================== -->
 
-🎓 BCA Student | Aspiring Full Stack Developer | UI/UX Enthusiast  
-💻 Passionate about building modern, responsive, and efficient web and desktop applications using **C#, ASP.NET, SQL Server, HTML, CSS, and JavaScript**.  
-I enjoy combining logic and creativity to craft structured, scalable, and visually elegant applications.
+<h1 align="center">Hi there 👋, I'm Nikita Thanki</h1>
+<h3 align="center">BCA Student | Aspiring Full Stack Developer | UI/UX Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&pause=1000&color=B76E79&center=true&vCenter=true&width=780&lines=Building+modern+and+responsive+applications;Turning+ideas+into+beautiful+user+experiences;Learning+and+growing+every+day" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikitathanki&color=b76e79" alt="profile views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/nikitathanki">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitathanki&layout=compact&hide_border=true" />
+  </a>
+</p>
+
+---
+
+# 👩‍💻 About Me
+I'm a **BCA student** passionate about developing **modern, responsive, and efficient** web and desktop applications using **ASP.NET, SQL Server, HTML, CSS, JavaScript, and C# (for backend logic)**.  
+I enjoy combining logic and creativity to build systems that are both functional and visually elegant.
 
 > “Building logic, designing with purpose, and learning something new every day.”
 
 ---
 
-## 🧠 Technical Skills  
+# 🧠 Technical Skills
 
-| **Category** | **Tools / Frameworks** |
-|---------------|------------------------|
-| **Frontend** | HTML, CSS, JavaScript, Bootstrap |
-| **Backend** | C#, ASP.NET |
-| **Database** | SQL Server, MySQL |
-| **Architecture** | 2-Tier (Desktop), 3-Tier (Web) |
-| **UI Framework** | Guna.UI2 |
-| **IDE** | Visual Studio 2019, Visual Studio Code |
-| **Version Control** | Git & GitHub |
-| **Design Tools** | Canva, Figma (UI/UX Basics) |
+| Category      | Tools / Frameworks |
+|---------------|--------------------|
+| Frontend      | HTML, CSS, JavaScript, Bootstrap |
+| Backend       | ASP.NET, C# |
+| Database      | SQL Server, MySQL |
+| Architecture  | 2-Tier (Desktop), 3-Tier (Web) |
+| UI Framework  | Guna.UI2 |
+| IDE           | Visual Studio 2019, Visual Studio Code |
+| Version Ctrl  | Git, GitHub |
+| Design Tools  | Canva, Figma (UI/UX basics) |
 
 ---
 
-## 🏫 **Institute Management System (2-Tier Architecture)**  
+# 🏫 Institute Management System (2-Tier Desktop Application)
 
 **Overview**  
-A desktop-based application developed using **C#.NET (Windows Forms)** and **SQL Server** to automate institute processes like admissions, staff, exams, and fees.  
+A desktop-based application built using **C#.NET (Windows Forms)** and **SQL Server** to automate institute operations like admissions, staff management, exams, and fees.
 
-**Highlights**  
-- 2-Tier architecture using ADO.NET  
+**Highlights**
+- 2-Tier architecture (ADO.NET)  
 - Role-based login and CRUD operations  
 - Real-time database connection  
-- Modern interface built with Guna UI2  
+- Modern UI built with **Guna UI2**
 
-**Tech Stack**  
-C#.NET | SQL Server | Visual Studio | Guna.UI2  
+**Tech Stack:** C#.NET | SQL Server | Visual Studio | Guna.UI2  
 
 ---
 
-## 🛍️ **Crème Studio – E-Commerce Website (3-Tier Architecture)**  
+# 🛍️ Crème Studio – E-Commerce Website (3-Tier Web Application)
 
 **Overview**  
-A luxury-themed e-commerce website built using **ASP.NET Web Forms, C#, and SQL Server** with a 3-tier structure separating logic, data, and UI layers.  
+A luxury-themed **ASP.NET Web Forms** e-commerce website with a 3-tier architecture, separating the **UI**, **Business Logic**, and **Data Access** layers.  
 
-**Highlights**  
+**Highlights**
 - Product listing, wishlist, and checkout  
-- User login, profile, and order history  
+- User login, profile, and order management  
 - Session-based cart system  
-- Animated rose-gold themed UI  
+- Luxury **rose-gold and beige animated UI**
 
-**Tech Stack**  
-ASP.NET | SQL Server | HTML | CSS | JavaScript | ADO.NET  
+**Tech Stack:** ASP.NET | SQL Server | HTML | CSS | JavaScript | ADO.NET  
 
 ---
 
-## 🌱 **Currently Learning**
+# 🌱 Currently Learning
 - ASP.NET MVC Framework  
 - Advanced C# and LINQ  
 - UI/UX Design  
 - Database Optimization  
----
-
-## 📁 **Projects**
-- [Institute Management System](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)  
-- [Crème Studio](https://github.com/nikitathanki/Cremestudio)  
 
 ---
 
-⭐ **Fun fact:** I love bringing structure to ideas — turning small concepts into fully functional systems.
+# 📁 Projects
+- 🔸 [Institute Management System](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)  
+- 🔸 [Crème Studio (ASP.NET Website)](https://github.com/nikitathanki/Cremestudio)  
+
+---
+
+# 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=rose_pine&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat&no-frame=true&margin-w=5" alt="trophies" />
+</p>
+
+---
+
+# 🤝 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikitathanki" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nikitathanki@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/thewordsofnikita" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-b76e79?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **Fun fact:** I love bringing structure to ideas — turning small concepts into fully functional systems.  
+💫 *“Code with clarity. Design with intention.”*
