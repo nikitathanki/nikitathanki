@@ -17,7 +17,7 @@
 
 <!-- 3D profile card -->
 <p align="center">
-  <img src="https://github-profile-3d-card.vercel.app/?username=nikitathanki&theme=rose&show_avatar=true&avatar=https://github.com/nikitathanki.png" alt="3D Profile Card" style="max-width:640px;width:100%;border-radius:16px;box-shadow:0 8px 30px rgba(183,110,121,0.12)" />
+  <img src="https://github-profile-3d-card.vercel.app/api/cards?username=nikitathanki&theme=rose" alt="3D Profile Card" style="max-width:640px;width:100%;border-radius:16px;box-shadow:0 8px 30px rgba(183,110,121,0.12)" />
 </p>
 
 <p align="center">
