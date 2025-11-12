@@ -94,49 +94,13 @@ A luxury-themed e-commerce website developed with **ASP.NET Web Forms**, followi
 ## 📁 Projects
 - 🔹 [Institute Management System](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)  
 - 🔹 [Crème Studio (ASP.NET Website)](https://github.com/nikitathanki/Cremestudio)  
-- 🔹 Portfolio (coming soon)
-
----
-
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=rose_pine&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat&no-frame=true&margin-w=5" alt="trophies" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nikitathanki" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nikitathanki@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/thewordsofnikita" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-b76e79?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
----
-
-## 🎨 Palette Reference  
-| Element | Color | Hex Code |
-|----------|--------|-----------|
-| **Background (Vanilla)** | Beige Cream | `#fdf6f0` |
-| **Feature Blocks** | Rose Beige | `#f3e5db` |
-| **Accent / Buttons** | Rose Gold | `#b76e79` |
-| **Gold Highlights** | Soft Gold | `#d4af37` |
-| **Text** | Deep Cocoa | `#3b2f2f` |
-
----
 
 ⭐ **Fun Fact:** I love turning small ideas into full systems — structured, functional, and beautiful.  
 💫 *“Code with clarity. Design with intention.”*
