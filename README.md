@@ -25,7 +25,7 @@ I love transforming ideas into elegant systems — balancing <b>logic</b> and <b
 <h2 align="center">🧠 Technical Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" alt="skills icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,github,git" alt="skills icons" />
 </p>
 
 | Category | Tools / Frameworks |
