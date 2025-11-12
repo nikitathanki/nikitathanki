@@ -82,21 +82,7 @@ A luxury-themed **ASP.NET Web Forms** e-commerce website with a 3-tier architect
 
 # 📁 Projects
 - 🔸 [Institute Management System](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)  
-- 🔸 [Crème Studio (ASP.NET Website)](https://github.com/nikitathanki/Cremestudio)  
-
----
-
-# 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&theme=rose_pine&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat&no-frame=true&margin-w=5" alt="trophies" />
-</p>
+- 🔸 [Crème Studio (E-Commerce Website)](https://github.com/nikitathanki/Cremestudio)  
 
 ---
 
