@@ -1,5 +1,6 @@
 <!-- =======================================================
       🌸 Nikita Thanki | Pastel Luxury GitHub Profile 🌸
+      Copy this entire file into README.md (paste raw, no backticks)
 ======================================================= -->
 
 <h1 align="center">
@@ -128,7 +129,6 @@ ASP.NET Web Forms e-commerce demo with rose-gold UI and 3-tier architecture.
     <img src="https://img.shields.io/badge/Gmail-F3E5DB?style=for-the-badge&logo=gmail&logoColor=3B2F2F" alt="Email" />
   </a>
 </p>
-
 ---
 
 <p align="center">
