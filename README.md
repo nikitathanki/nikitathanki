@@ -60,8 +60,6 @@ ASP.NET | SQL Server | HTML | CSS | JavaScript | ADO.NET
 - Advanced C# and LINQ  
 - UI/UX Design  
 - Database Optimization  
-- Generative AI (Google Learning Path)
-
 ---
 
 ## 📁 **Projects**
