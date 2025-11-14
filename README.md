@@ -10,13 +10,22 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </p>
 
+<!-- 🌟 Profile Views + Top Languages -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile+Views&color=B76E79&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&theme=default&title_color=B76E79&text_color=3B2F2F" alt="Top Languages" />
+</p>
+
 ---
 
 ### 💫 About Me
-🎓 I’m a **BCA student** passionate about developing **modern, responsive, and functional** web & desktop applications.  
+🎓 I’m a **BCA student** passionate about developing modern, responsive, and functional web & desktop applications.  
 💻 I work mainly with **ASP.NET, C#, SQL Server, HTML, CSS, JavaScript**, and focus on clean UI + solid logic.  
 🌱 Currently exploring **ASP.NET MVC, LINQ, and UI animation design**.  
-✨ I believe in building software that’s both **functional and beautiful**.
+✨ I believe in building software that’s both functional and beautiful.
 
 <p align="center"><i>“Code with clarity. Design with intention.”</i></p>
 
@@ -45,7 +54,7 @@
 **Tech:** C#.NET · SQL Server · Visual Studio · Guna.UI2  
 **Overview:** Automates institute operations like admissions, staff, exams, and fees.  
 **Highlights:** 2-tier architecture, CRUD operations, role-based access, modern Guna UI.  
-🔗 [View Repository](https://github.com/nikitathanki/INSTITUTEMANAGEMENT)
+🔗 <a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">View Repository</a>
 
 ---
 
@@ -53,7 +62,7 @@
 **Tech:** ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript  
 **Overview:** A luxury-themed e-commerce site with full 3-tier architecture.  
 **Highlights:** Product listing, wishlist, cart, checkout, and rose-gold UI design.  
-🔗 [View Repository](https://github.com/nikitathanki/Cremestudio)
+🔗 <a href="https://github.com/nikitathanki/Cremestudio">View Repository</a>
 
 ---
 
@@ -76,6 +85,6 @@
 </h3>
 
 <p align="center">
-I love turning ideas into complete systems — <b>structured, functional, and beautiful.<b><br>
+I love turning ideas into complete systems — <b>structured, functional, and beautiful.</b><br>
 <span style="color:#b76e79;"><b>“Every design has logic; every logic deserves design.”</b></span>
 </p>
