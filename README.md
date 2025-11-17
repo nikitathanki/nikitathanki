@@ -1,37 +1,45 @@
 <!-- =======================================================
-     ✨ Nikita Thanki | Animated, Modern GitHub Profile ✨
+     ✨ Nikita Thanki | Modern, Animated GitHub Profile ✨
 ========================================================== -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&color=B76E79&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Nikita+Thanki;BCA+Student+%7C+Aspiring+Full+Stack+Developer;Creative+Thinker+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
-</h1>
+<!-- 🖼 Custom Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&color=B76E79&center=true&vCenter=true&width=800&lines=Nikita+Thanki;Aspiring+Full+Stack+Developer;UI%2FUX+Enthusiast;Creative+Tech+Learner" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </p>
 
-<!-- 🌟 Profile Views + Top Languages -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile+Views&color=B76E79&style=flat-square" alt="Profile Views" />
-</p>
+---
 
+<!-- 🔥 Badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&theme=default&title_color=B76E79&text_color=3B2F2F" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile+Views&color=B76E79&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/nikitathanki?label=Followers&color=B76E79&style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-b76e79?style=flat-square" />
 </p>
 
 ---
 
-### 💫 About Me
-🎓 I’m a **BCA student** passionate about developing modern, responsive, and functional web & desktop applications.  
-💻 I work mainly with **ASP.NET, C#, SQL Server, HTML, CSS, JavaScript**, and focus on clean UI + solid logic.  
-🌱 Currently exploring **ASP.NET MVC, LINQ, and UI animation design**.  
-✨ I believe in building software that’s both functional and beautiful.
+## 💫 About Me  
+I’m a **BCA student** who enjoys building clean, functional, and visually appealing applications.  
+Most of my work revolves around:
+
+- ASP.NET Web Forms  
+- C#  
+- SQL Server  
+- HTML, CSS, JavaScript  
+- UI/UX + animations  
+
+Currently learning **MVC, LINQ, modern UI structure, and performance-friendly design**.
 
 <p align="center"><i>“Code with clarity. Design with intention.”</i></p>
 
 ---
 
-### 🧠 Technical Skills
+## 🧠 Technical Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" />
 </p>
@@ -39,34 +47,74 @@
 | Category | Tools / Frameworks |
 |-----------|--------------------|
 | **Frontend** | HTML, CSS, JavaScript, Bootstrap |
-| **Backend** | ASP.NET (Web Forms & MVC), C# |
+| **Backend** | ASP.NET Web Forms, MVC, C# |
 | **Database** | SQL Server, MySQL |
-| **Architecture** | 2-Tier (Desktop), 3-Tier (Web) |
-| **UI Framework** | Guna.UI2 |
+| **App Architecture** | 2-Tier (Desktop), 3-Tier (Web) |
+| **UI Frameworks** | Guna.UI2 |
 | **Version Control** | Git, GitHub |
 | **Design Tools** | Canva, Figma |
 
 ---
 
-### 🏫 Featured Projects
+## 🌟 GitHub Stats
 
-#### 🎓 Institute Management System (Desktop App)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikitathanki&theme=default&ring=B76E79&fire=B76E79&currStreakLabel=B76E79" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&title_color=B76E79&text_color=3B2F2F&icon_color=B76E79" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F" />
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- Built two major projects while still in BCA  
+- Learned full 3-tier architecture on your own  
+- Designed complete UI layouts with animations  
+- Actively improving design + logic skills  
+- Exploring front-end design that matches luxury themes  
+
+---
+
+## 🏫 Featured Projects
+
+### 🎓 Institute Management System (Desktop App)
 **Tech:** C#.NET · SQL Server · Visual Studio · Guna.UI2  
-**Overview:** Automates institute operations like admissions, staff, exams, and fees.  
-**Highlights:** 2-tier architecture, CRUD operations, role-based access, modern Guna UI.  
+A full desktop solution to manage admissions, staff, exams, and fees.  
+**Features:** CRUD, role-based login, dashboard UI, smooth Guna design  
 🔗 <a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">View Repository</a>
 
 ---
 
-#### 💎 Crème Studio – E-Commerce Website (Web App)
-**Tech:** ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript  
-**Overview:** A luxury-themed e-commerce site with full 3-tier architecture.  
-**Highlights:** Product listing, wishlist, cart, checkout, and rose-gold UI design.  
+### 💎 Crème Studio – Luxury E-Commerce Website
+**Tech:** ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JS  
+A luxury-themed shopping experience with animations and modern pages.  
+**Features:** Product listing, wishlist, cart, checkout, 3-tier structure  
 🔗 <a href="https://github.com/nikitathanki/Cremestudio">View Repository</a>
 
 ---
 
-### 🤝 Connect With Me
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=INSTITUTEMANAGEMENT&title_color=B76E79&icon_color=B76E79&text_color=3B2F2F" />
+  </a>
+  <a href="https://github.com/nikitathanki/Cremestudio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=Cremestudio&title_color=B76E79&icon_color=B76E79&text_color=3B2F2F" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -85,6 +133,6 @@
 </h3>
 
 <p align="center">
-I love turning ideas into complete systems — <b>structured, functional, and beautiful.</b><br>
+I enjoy turning ideas into complete systems — <b>structured, functional, and beautiful.</b><br>
 <span style="color:#b76e79;"><b>“Every design has logic; every logic deserves design.”</b></span>
 </p>
