@@ -55,16 +55,7 @@ Currently learning **MVC, LINQ, modern UI structure, and performance-friendly de
 
 ---
 
-## 🌟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikitathanki&theme=default&ring=B76E79&fire=B76E79&currStreakLabel=B76E79" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&title_color=B76E79&text_color=3B2F2F&icon_color=B76E79" />
-</p>
-
+## 🌟Languages 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F" />
 </p>
