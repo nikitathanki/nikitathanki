@@ -64,8 +64,6 @@ Currently learning **MVC, LINQ, modern UI structure, and performance-friendly de
 
 ## 🏆 Achievements & Highlights
 
-- Built two major projects while still in BCA  
-- Learned full 3-tier architecture on your own  
 - Designed complete UI layouts with animations  
 - Actively improving design + logic skills  
 - Exploring front-end design that matches luxury themes  
