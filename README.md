@@ -17,8 +17,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-B76E79?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/nikitathanki?label=Followers&style=flat-square&color=B76E79" />
-  <img src="https://img.shields.io/github/stars/nikitathanki?label=Stars&style=flat-square&color=B76E79" />
 </p>
 
 ---
