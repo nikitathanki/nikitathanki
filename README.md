@@ -15,7 +15,7 @@
 
 <!-- 🔥 Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square&ab" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-B76E79?style=flat-square" />
 </p>
 
