@@ -1,54 +1,54 @@
 <!-- =======================================================
-     ✨ Nikita Thanki | BCA Student • Animated GitHub Profile ✨
+     ✨ Nikita Thanki | BCA Student GitHub Profile ✨
 ========================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student;Aspiring+Full+Stack+Developer;UI%2FUX+%26+Animation+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=850&lines=Nikita+Thanki;BCA+Student;Learning+Full+Stack+Development;Interested+in+UI%2FUX+and+Animations" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently-BCA%20Student-B76E79?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Animated%20UI%20%26%20Clean%20Logic-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Student-BCA-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Learning%20Stage-B76E79?style=flat-square" />
 </p>
 
 ---
 
 ## About Me
-I am a **Bachelor of Computer Applications (BCA) student** who enjoys building applications that feel smooth, structured, and visually refined. I like working where **logic meets design**, turning ideas into complete systems.
+I am a **Bachelor of Computer Applications (BCA) student** who is learning how software and websites are built from scratch. I am still in the learning phase and enjoy understanding both **coding logic and basic UI design**.
 
-I focus on:
-- Clean and understandable code  
-- Smooth animations and modern UI flow  
-- Building full projects, not just pages  
+Right now, my focus is on:
+- Learning programming step by step  
+- Understanding how frontend and backend work together  
+- Practicing with small and academic projects  
 
-Currently learning **ASP.NET MVC, LINQ, modern UI patterns, and animation-friendly frontend structure**.
+I believe learning happens best by building and improving slowly.
 
-<p align="center"><i>Learning step by step. Building with intention.</i></p>
+<p align="center"><i>Learning today to build better tomorrow.</i></p>
 
 ---
 
-## Technical Skills
+## Technical Skills (Learning Level)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,git,github" />
 </p>
 
-| Area | Tools & Technologies |
-|-----|----------------------|
-| Frontend | HTML, CSS, JavaScript, Bootstrap |
-| Backend | ASP.NET Web Forms, MVC, C# |
+| Area | What I Know |
+|-----|-------------|
+| Frontend | HTML, CSS, JavaScript (Basics) |
+| Backend | C#, ASP.NET Web Forms (Basics) |
 | Database | SQL Server, MySQL |
-| Architecture | 2-Tier (Desktop), 3-Tier (Web) |
-| UI & Animations | Guna.UI2, CSS Animations |
+| Architecture | Basic understanding of 2-Tier and 3-Tier |
+| Tools | Visual Studio, VS Code |
 | Version Control | Git, GitHub |
-| Design Tools | Figma, Canva |
+| Design Tools | Canva, Figma (Basic) |
 
 ---
 
@@ -59,56 +59,43 @@ Currently learning **ASP.NET MVC, LINQ, modern UI patterns, and animation-friend
 
 ---
 
-## Highlights
-- Currently pursuing **BCA** with strong practical focus  
-- Interested in **animated, aesthetic, and modern UI design**  
-- Experience building academic and self-driven projects  
-- Continuously improving logic, structure, and presentation  
+## Featured Projects (Student Level)
 
----
+### Institute Management System (Academic Project)
+**C#.NET · SQL Server · Visual Studio**
 
-## Featured Projects
+This is a **college-level desktop project** created to understand how management systems work.
 
-### Institute Management System (Desktop Application)
-**Tech Stack:** C#.NET · SQL Server · Visual Studio · Guna.UI2  
-
-A desktop-based system to manage admissions, students, staff, exams, and fees.
-
-**Key Features:**
-- CRUD operations  
-- Role-based authentication  
-- Dashboard with animated Guna UI components  
-- Structured multi-form workflow  
+**What I practiced in this project:**
+- Creating forms in C#  
+- Connecting application with SQL Server  
+- Performing basic CRUD operations  
+- Designing simple UI using Guna UI  
 
 🔗 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-### Crème Studio – Luxury E-Commerce Website
-**Tech Stack:** ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript  
+### Crème Studio – E-Commerce Website (Practice Project)
+**ASP.NET Web Forms · C# · SQL Server · HTML · CSS**
 
-A luxury-styled e-commerce website focused on smooth animations and clean layout.
+This is a **practice website project** made to understand web development flow.
 
-**Key Features:**
-- Product listing from database  
-- Wishlist and cart functionality  
-- Checkout flow  
-- 3-tier architecture  
+**What I practiced in this project:**
+- Page navigation and basic UI  
+- Database connectivity  
+- Product listing and simple cart logic  
+- Understanding 3-tier architecture  
 
 🔗 https://github.com/nikitathanki/Cremestudio
 
 ---
 
-## Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=INSTITUTEMANAGEMENT&title_color=B76E79&icon_color=B76E79&text_color=3B2F2F" />
-  </a>
-  <a href="https://github.com/nikitathanki/Cremestudio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=Cremestudio&title_color=B76E79&icon_color=B76E79&text_color=3B2F2F" />
-  </a>
-</p>
+## Currently Learning
+- ASP.NET MVC basics  
+- LINQ fundamentals  
+- Improving CSS and UI layout  
+- Understanding real-world project structure  
 
 ---
 
@@ -126,6 +113,6 @@ A luxury-styled e-commerce website focused on smooth animations and clean layout
 
 <p align="center">
 <b>Fun Fact</b><br>
-I enjoy turning ideas into complete systems that are structured, functional, and visually appealing.<br>
-<i>Every design has logic, and every logic deserves good design.</i>
+I enjoy learning by building small projects and improving them step by step.<br>
+<i>Every expert was once a beginner.</i>
 </p>
