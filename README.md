@@ -1,10 +1,9 @@
 <!-- =======================================================
-     ✨ Nikita Thanki | Modern, Animated GitHub Profile ✨
+     ✨ Nikita Thanki | BCA Student • Animated GitHub Profile ✨
 ========================================================== -->
 
-<!-- 🖼 Custom Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&color=B76E79&center=true&vCenter=true&width=800&lines=Nikita+Thanki;Aspiring+Full+Stack+Developer;UI%2FUX+Enthusiast;Creative+Tech+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student;Aspiring+Full+Stack+Developer;UI%2FUX+%26+Animation+Focused" />
 </p>
 
 <p align="center">
@@ -13,81 +12,94 @@
 
 ---
 
-<!-- 🔥 Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square&ab" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-B76E79?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently-BCA%20Student-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Animated%20UI%20%26%20Clean%20Logic-B76E79?style=flat-square" />
 </p>
 
 ---
 
-## 💫 About Me  
-I’m a **BCA student** who enjoys building clean, functional, and visually appealing applications.  
-Most of my work revolves around:
+## About Me
+I am a **Bachelor of Computer Applications (BCA) student** who enjoys building applications that feel smooth, structured, and visually refined. I like working where **logic meets design**, turning ideas into complete systems.
 
-- ASP.NET Web Forms  
-- C#  
-- SQL Server  
-- HTML, CSS, JavaScript  
-- UI/UX + animations  
+I focus on:
+- Clean and understandable code  
+- Smooth animations and modern UI flow  
+- Building full projects, not just pages  
 
-Currently learning **MVC, LINQ, modern UI structure, and performance-friendly design**.
+Currently learning **ASP.NET MVC, LINQ, modern UI patterns, and animation-friendly frontend structure**.
 
-<p align="center"><i>“Code with clarity. Design with intention.”</i></p>
+<p align="center"><i>Learning step by step. Building with intention.</i></p>
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,figma,github,git" />
 </p>
 
-| Category | Tools / Frameworks |
-|-----------|--------------------|
-| **Frontend** | HTML, CSS, JavaScript, Bootstrap |
-| **Backend** | ASP.NET Web Forms, MVC, C# |
-| **Database** | SQL Server, MySQL |
-| **App Architecture** | 2-Tier (Desktop), 3-Tier (Web) |
-| **UI Frameworks** | Guna.UI2 |
-| **Version Control** | Git, GitHub |
-| **Design Tools** | Canva, Figma |
+| Area | Tools & Technologies |
+|-----|----------------------|
+| Frontend | HTML, CSS, JavaScript, Bootstrap |
+| Backend | ASP.NET Web Forms, MVC, C# |
+| Database | SQL Server, MySQL |
+| Architecture | 2-Tier (Desktop), 3-Tier (Web) |
+| UI & Animations | Guna.UI2, CSS Animations |
+| Version Control | Git, GitHub |
+| Design Tools | Figma, Canva |
 
 ---
 
-## 🌟 Languages  
+## Languages Used
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F" />
 </p>
 
 ---
 
-## 🏆 Achievements & Highlights
-- Designed complete UI layouts with animations  
-- Actively improving design + logic skills  
-- Exploring front-end design that matches luxury themes  
+## Highlights
+- Currently pursuing **BCA** with strong practical focus  
+- Interested in **animated, aesthetic, and modern UI design**  
+- Experience building academic and self-driven projects  
+- Continuously improving logic, structure, and presentation  
 
 ---
 
-## 🏫 Featured Projects
+## Featured Projects
 
-### 🎓 Institute Management System (Desktop App)
-**Tech:** C#.NET · SQL Server · Visual Studio · Guna.UI2  
-A full desktop solution to manage admissions, staff, exams, and fees.  
-**Features:** CRUD, role-based login, dashboard UI, smooth Guna design  
-🔗 <a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">View Repository</a>
+### Institute Management System (Desktop Application)
+**Tech Stack:** C#.NET · SQL Server · Visual Studio · Guna.UI2  
+
+A desktop-based system to manage admissions, students, staff, exams, and fees.
+
+**Key Features:**
+- CRUD operations  
+- Role-based authentication  
+- Dashboard with animated Guna UI components  
+- Structured multi-form workflow  
+
+🔗 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-### 💎 Crème Studio – Luxury E-Commerce Website
-**Tech:** ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JS  
-A luxury-themed shopping experience with animations and modern pages.  
-**Features:** Product listing, wishlist, cart, checkout, 3-tier structure  
-🔗 <a href="https://github.com/nikitathanki/Cremestudio">View Repository</a>
+### Crème Studio – Luxury E-Commerce Website
+**Tech Stack:** ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript  
+
+A luxury-styled e-commerce website focused on smooth animations and clean layout.
+
+**Key Features:**
+- Product listing from database  
+- Wishlist and cart functionality  
+- Checkout flow  
+- 3-tier architecture  
+
+🔗 https://github.com/nikitathanki/Cremestudio
 
 ---
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">
@@ -100,7 +112,7 @@ A luxury-themed shopping experience with animations and modern pages.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -112,13 +124,8 @@ A luxury-themed shopping experience with animations and modern pages.
 
 ---
 
-<h3 align="center">
-  <span style="background: linear-gradient(90deg,#b76e79,#d4af37); -webkit-background-clip: text; color: transparent;">
-    ✨ Fun Fact ✨
-  </span>
-</h3>
-
 <p align="center">
-I enjoy turning ideas into complete systems — <b>structured, functional, and beautiful.</b><br>
-<span style="color:#b76e79;"><b>“Every design has logic; every logic deserves design.”</b></span>
+<b>Fun Fact</b><br>
+I enjoy turning ideas into complete systems that are structured, functional, and visually appealing.<br>
+<i>Every design has logic, and every logic deserves good design.</i>
 </p>
