@@ -42,7 +42,7 @@ I believe learning happens best by building and improving slowly.
 
 | Area | What I Know |
 |-----|-------------|
-| Frontend | HTML, CSS, JavaScript (Basics) |
+| Frontend | HTML, CSS, JavaScript (Basics), Bootstrap |
 | Backend | C#, ASP.NET Web Forms (Basics) |
 | Database | SQL Server, MySQL |
 | Architecture | Basic understanding of 2-Tier and 3-Tier |
