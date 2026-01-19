@@ -3,74 +3,77 @@
 ========================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=850&lines=Nikita+Thanki;BCA+Student;Learning+Full+Stack+Development;Interested+in+UI%2FUX+and+Animations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student+%7C+Aspiring+Full+Stack+Developer;Learning+Web+and+Software+Development;Interested+in+UI%2FUX+and+Node.js" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
-  <img src="https://img.shields.io/badge/Student-BCA-B76E79?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Learning%20Stage-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/BCA-Student-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-B76E79?style=flat-square" />
 </p>
 
 ---
 
 ## About Me
-I am a **Bachelor of Computer Applications (BCA) student** who is learning how software and websites are built from scratch. I am still in the learning phase and enjoy understanding both **coding logic and basic UI design**.
 
-Right now, my focus is on:
-- Learning programming step by step  
-- Understanding how frontend and backend work together  
-- Practicing with small and academic projects  
+Hi, I’m **Nikita Thanki**, a **Bachelor of Computer Applications (BCA) student** learning how software systems and websites are built from scratch.
 
-I believe learning happens best by building and improving slowly.
+I enjoy:
+- Understanding programming logic clearly  
+- Learning how frontend and backend work together  
+- Improving UI while building academic and practice projects  
 
-<p align="center"><i>Learning today to build better tomorrow.</i></p>
+I believe learning works best when done step by step.
+
+<p align="center"><i>Learning slowly, building steadily.</i></p>
 
 ---
 
-## Technical Skills (Learning Level)
+## Technical Skills (Student / Learning Level)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,cs,dotnet,visualstudio,vscode,mysql,git,github" />
 </p>
 
-| Area | What I Know |
-|-----|-------------|
+| Area | Skills |
+|------|-------|
 | Frontend | HTML, CSS, JavaScript (Basics), Bootstrap |
-| Backend | C#, ASP.NET Web Forms |
+| Backend | C#, ASP.NET Web Forms, Node.js (Basics) |
 | Database | SQL Server, MySQL |
-| Architecture | 2-Tier and 3-Tier |
+| Architecture | 2-Tier, 3-Tier |
 | Tools | Visual Studio, VS Code |
 | Version Control | Git, GitHub |
-| Design Tools | Canva, Figma (Basic) |
+| UI / Design | Canva, Figma (Basic) |
 
 ---
 
 ## Languages Used
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F" />
 </p>
 
 ---
 
-## Featured Projects (Student Level)
+## Projects
 
 ### Institute Management System (Academic Project)
 **C#.NET · SQL Server · Visual Studio**
 
-This is a **college-level desktop project** created to understand how management systems work.
+A **college-level desktop application** created to understand how management systems work.
 
-**What I practiced in this project:**
-- Creating forms in C#  
-- Connecting application with SQL Server  
-- Performing basic CRUD operations  
-- Designing simple UI using Guna UI  
+**What I worked on:**
+- Designing multiple forms in C#  
+- SQL Server database connectivity  
+- CRUD operations  
+- 3-tier architecture implementation  
+- Simple UI design using Guna UI  
 
 🔗 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
@@ -79,27 +82,31 @@ This is a **college-level desktop project** created to understand how management
 ### Crème Studio – E-Commerce Website (Practice Project)
 **ASP.NET Web Forms · C# · SQL Server · HTML · CSS**
 
-This is a **practice website project** made to understand web development flow.
+A **practice-based web project** focused on understanding full website flow.
 
-**What I practiced in this project:**
-- Page navigation and basic UI  
+**What I worked on:**
+- User-side pages and navigation  
 - Database connectivity  
-- Product listing and simple cart logic  
-- Understanding 3-tier architecture  
+- Product listing and add-to-cart logic  
+- Checkout and order flow  
+- 3-tier architecture concepts  
 
 🔗 https://github.com/nikitathanki/Cremestudio
 
 ---
 
 ## Currently Learning
+- Node.js fundamentals  
 - ASP.NET MVC basics  
 - LINQ fundamentals  
-- Improving CSS and UI layout  
+- Writing cleaner C# code  
+- Improving CSS layouts and UI consistency  
 - Understanding real-world project structure  
 
 ---
 
 ## Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -113,6 +120,6 @@ This is a **practice website project** made to understand web development flow.
 
 <p align="center">
 <b>Fun Fact</b><br>
-I enjoy learning by building small projects and improving them step by step.<br>
-<i>Every expert was once a beginner.</i>
+I like learning by building projects and improving them gradually.<br>
+<i>Every expert starts as a beginner.</i>
 </p>
