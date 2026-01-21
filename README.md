@@ -117,10 +117,6 @@ https://github.com/nikitathanki/Cremestudio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&title_color=B76E79&icon_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
 </p>
 
