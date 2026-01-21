@@ -1,57 +1,55 @@
-# 👋 Hi, I’m Nikita Thanki
+<!-- =========================
+     Nikita Thanki | GitHub
+========================== -->
 
-🎓 **Bachelor of Computer Applications (BCA) Student**  
-💻 Aspiring Full Stack Developer  
-📍 India
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student+%7C+Aspiring+Full+Stack+Developer;Building+Complete+Web+and+Software+Projects;Frontend+Backend+Database" />
+</p>
 
-I am a BCA student who enjoys learning how software and web applications are built from the ground up.  
-I focus on understanding concepts clearly, writing structured code, and improving projects step by step.
-
-I believe strong fundamentals and consistency matter more than rushing.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
+  <img src="https://img.shields.io/badge/BCA-Student-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Project%20Development-B76E79?style=flat-square" />
+</p>
 
-- Interested in understanding frontend, backend, and database connectivity  
-- Learning by building academic and practice-based projects  
-- Enjoy improving UI while keeping logic clean and simple  
-- Currently focused on backend logic and structured development  
+---
 
-> Learning step by step, building with intention.
+## 👋 About Me
+
+Hi, I’m **Nikita Thanki**, a **Bachelor of Computer Applications (BCA) student** who enjoys building complete applications from scratch.
+
+I work across:
+- Frontend development  
+- Backend logic  
+- Database design and connectivity  
+- UI design and project structure  
+
+I like understanding how each layer works together in a real project.
+
+<p align="center"><i>Build the full system. Understand every part.</i></p>
 
 ---
 
 ## 🛠 Technical Skills (Learning Level)
 
-### Frontend
-- HTML  
-- CSS  
-- JavaScript (Basics)  
-- Bootstrap  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,cs,dotnet,visualstudio,vscode,mysql,git,github" />
+</p>
 
-### Backend
-- C#  
-- ASP.NET Web Forms  
-- Node.js (Basics)  
-
-### Database
-- SQL Server  
-- MySQL  
-
-### Architecture & Concepts
-- 2-Tier Architecture  
-- 3-Tier Architecture  
-- CRUD Operations  
-
-### Tools
-- Visual Studio  
-- Visual Studio Code  
-- Git & GitHub  
-
-### UI / Design
-- Canva  
-- Figma (Basic)
+| Area | Skills |
+|------|-------|
+| Frontend | HTML, CSS, JavaScript (Basics), Bootstrap |
+| Backend | C#, ASP.NET Web Forms, Node.js (Basics) |
+| Database | SQL Server, MySQL |
+| Architecture | 2-Tier, 3-Tier |
+| Tools | Visual Studio, VS Code |
+| UI / Design | Canva, Figma (Basic) |
 
 ---
 
@@ -59,38 +57,46 @@ I believe strong fundamentals and consistency matter more than rushing.
 
 ### 🏫 Institute Management System (Academic Project)
 
-**Tech Stack:**  
-C#.NET, SQL Server, Visual Studio
+**C#.NET · SQL Server · Visual Studio**
 
-**Description:**  
-A desktop-based academic project developed to understand how management systems work in real-world scenarios.
+A desktop-based academic project developed to understand how management systems function internally.
 
-**What I worked on:**
-- Designed multiple Windows Forms using C#  
+**My contribution (entire project):**
+- Designed all Windows Forms  
+- Implemented frontend UI using Guna UI  
 - Created and connected SQL Server database  
-- Implemented CRUD operations  
+- Performed CRUD operations  
 - Applied 2-Tier architecture  
-- Designed simple UI using Guna UI  
+- Wrote backend logic in C#  
 
 🔗 GitHub Repository:  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-### 🛍 Crème Studio – E-Commerce Website (Practice Project)
+### 🛍 Crème Studio – E-Commerce Website (Complete Full Stack Project)
 
-**Tech Stack:**  
-ASP.NET Web Forms, C#, SQL Server, HTML, CSS
+**ASP.NET Web Forms · C# · SQL Server · HTML · CSS**
 
-**Description:**  
-A practice-based web application built to understand complete user-side workflow of an e-commerce website.
+A complete e-commerce web application developed independently to understand real-world full stack development.
 
-**What I worked on:**
-- Developed user-side pages and navigation  
-- Implemented database connectivity  
-- Built product listing and add-to-cart functionality  
-- Designed checkout and order flow  
-- Applied basic 3-Tier architecture concepts  
+This project includes **Frontend, Backend, Database, User module, and Admin module**, all designed and implemented by me.
+
+**My contribution (100% ownership):**
+- Designed and developed **Frontend UI** for all pages  
+- Built **User module**
+  - Registration and Login  
+  - Product listing and product details  
+  - Add-to-cart functionality  
+  - Checkout and order placement  
+- Built **Admin module**
+  - Product management (Add, Update, Delete)  
+  - Category and data management  
+  - Order handling and basic admin control  
+- Designed **SQL Server database schema**
+- Implemented database connectivity and CRUD logic  
+- Applied **3-Tier architecture concepts**
+- Handled complete backend logic using C#  
 
 🔗 GitHub Repository:  
 https://github.com/nikitathanki/Cremestudio
@@ -104,28 +110,37 @@ https://github.com/nikitathanki/Cremestudio
 - LINQ fundamentals  
 - Writing cleaner and reusable C# code  
 - Improving CSS layouts and UI consistency  
-- Understanding real-world project structure  
+- Understanding scalable project structure  
 
 ---
 
-## 🌱 Learning Approach
+## 📊 GitHub Stats
 
-- Focus on fundamentals before frameworks  
-- Improve existing projects instead of starting too many new ones  
-- Learn by debugging and refining code  
-- Prefer clarity over complexity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&title_color=B76E79&icon_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/nikita-thanki-543a7b397/  
-- 📧 Email: thankinikita32@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thankinikita32@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ✨ Fun Fact
-
-I prefer building and improving projects slowly rather than rushing through tutorials.
-
-> Every expert starts as a beginner.
+<p align="center">
+<b>Fun Fact</b><br>
+I prefer building complete projects and improving them over time.<br>
+<i>Understanding the full flow matters.</i>
+</p>
