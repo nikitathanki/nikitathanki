@@ -72,7 +72,7 @@ A **college-level desktop application** created to understand how management sys
 - Designing multiple forms in C#  
 - SQL Server database connectivity  
 - CRUD operations  
-- 3-tier architecture implementation  
+- 2-tier architecture implementation  
 - Simple UI design using Guna UI  
 
 🔗 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
