@@ -3,7 +3,7 @@
 ========================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student+%7C+Aspiring+Full+Stack+Developer;Learning+Web+and+Software+Development;Interested+in+UI%2FUX+and+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student+%7C+Aspiring+Full+Stack+Developer;Building+Web+and+Software+Projects;Interested+in+UI%2FUX+and+Backend+Logic" />
 </p>
 
 <p align="center">
@@ -15,27 +15,27 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
   <img src="https://img.shields.io/badge/BCA-Student-B76E79?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-B76E79?style=flat-square" />
 </p>
 
 ---
 
 ## About Me
 
-Hi, I’m **Nikita Thanki**, a **Bachelor of Computer Applications (BCA) student** learning how software systems and websites are built from scratch.
+Hi, I’m **Nikita Thanki**, a **Bachelor of Computer Applications (BCA) student** who enjoys understanding how applications and websites work behind the scenes.
 
-I enjoy:
-- Understanding programming logic clearly  
-- Learning how frontend and backend work together  
-- Improving UI while building academic and practice projects  
+I focus on:
+- Writing clear and structured code  
+- Understanding how frontend, backend, and database connect  
+- Improving UI while working on academic and practice projects  
 
-I believe learning works best when done step by step.
+I believe consistency matters more than speed.
 
-<p align="center"><i>Learning slowly, building steadily.</i></p>
+<p align="center"><i>Learning step by step, building with intention.</i></p>
 
 ---
 
-## Technical Skills (Student / Learning Level)
+## Technical Skills (Learning Level)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,cs,dotnet,visualstudio,vscode,mysql,git,github" />
@@ -66,14 +66,14 @@ I believe learning works best when done step by step.
 ### Institute Management System (Academic Project)
 **C#.NET · SQL Server · Visual Studio**
 
-A **college-level desktop application** created to understand how management systems work.
+A **desktop-based academic project** created to understand how real management systems are structured.
 
-**What I worked on:**
-- Designing multiple forms in C#  
-- SQL Server database connectivity  
-- CRUD operations  
-- 2-tier architecture implementation  
-- Simple UI design using Guna UI  
+**My contribution:**
+- Designed multiple Windows Forms  
+- Implemented SQL Server connectivity  
+- Performed CRUD operations  
+- Applied 2-tier architecture  
+- Built simple UI using Guna UI  
 
 🔗 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
@@ -82,14 +82,14 @@ A **college-level desktop application** created to understand how management sys
 ### Crème Studio – E-Commerce Website (Practice Project)
 **ASP.NET Web Forms · C# · SQL Server · HTML · CSS**
 
-A **practice-based web project** focused on understanding full website flow.
+A **practice-focused web project** built to understand complete user-side workflow.
 
-**What I worked on:**
-- User-side pages and navigation  
-- Database connectivity  
-- Product listing and add-to-cart logic  
-- Checkout and order flow  
-- 3-tier architecture concepts  
+**My contribution:**
+- Developed user-side pages and navigation  
+- Connected database with frontend  
+- Implemented product listing and cart logic  
+- Built checkout and order flow  
+- Applied 3-tier architecture concepts  
 
 🔗 https://github.com/nikitathanki/Cremestudio
 
@@ -99,7 +99,7 @@ A **practice-based web project** focused on understanding full website flow.
 - Node.js fundamentals  
 - ASP.NET MVC basics  
 - LINQ fundamentals  
-- Writing cleaner C# code  
+- Writing cleaner and reusable C# code  
 - Improving CSS layouts and UI consistency  
 - Understanding real-world project structure  
 
@@ -120,6 +120,6 @@ A **practice-based web project** focused on understanding full website flow.
 
 <p align="center">
 <b>Fun Fact</b><br>
-I like learning by building projects and improving them gradually.<br>
-<i>Every expert starts as a beginner.</i>
+I prefer learning by building and refining projects over time.<br>
+<i>Progress beats perfection.</i>
 </p>
