@@ -113,9 +113,6 @@ https://github.com/nikitathanki/Cremestudio
 - Understanding scalable project structure  
 
 ---
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
 </p>
