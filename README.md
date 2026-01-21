@@ -3,7 +3,7 @@
 ========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student+%7C+Aspiring+Full+Stack+Developer;Building+Complete+Web+and+Software+Projects;Frontend+Backend+Database" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student+%7C+Full+Stack+Developer;ASP.NET+%7C+Node.js+%7C+SQL+Databases;Building+Complete+Real--World+Projects" />
 </p>
 
 <p align="center">
@@ -15,104 +15,118 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
   <img src="https://img.shields.io/badge/BCA-Student-B76E79?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Project%20Development-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Real--World%20Development-B76E79?style=flat-square" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hi, I’m **Nikita Thanki**, a **Bachelor of Computer Applications (BCA) student** who enjoys building complete applications from scratch.
+Hi, I’m **Nikita Thanki**, a **Bachelor of Computer Applications (BCA) student** with hands-on experience in building **full stack web and desktop applications**.
 
-I work across:
+I enjoy working across the complete development cycle:
 - Frontend development  
 - Backend logic  
-- Database design and connectivity  
+- Database design and integration  
 - UI design and project structure  
 
-I like understanding how each layer works together in a real project.
+I focus on understanding how systems work end-to-end rather than isolated features.
 
 <p align="center"><i>Build the full system. Understand every part.</i></p>
 
 ---
 
-## 🛠 Technical Skills (Learning Level)
+## 💼 Internship Experience
+
+### Software Development Intern – **TechRover**
+
+**Full Stack Development (Node.js)**
+
+- Worked on **frontend and backend development** using  
+  **HTML, CSS, JavaScript, Bootstrap, C#, ASP.NET, and Node.js**
+- Developed backend APIs and server-side logic using **Node.js**
+- Integrated databases using **MySQL and SQL Server**
+- Implemented CRUD operations, authentication basics, and validations
+- Assisted in debugging, testing, and improving application flow
+- Gained real-world exposure to development workflows and teamwork
+
+---
+
+## 🛠 Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,cs,dotnet,visualstudio,vscode,mysql,git,github" />
 </p>
 
 | Area | Skills |
-|------|-------|
-| Frontend | HTML, CSS, JavaScript (Basics), Bootstrap |
-| Backend | C#, ASP.NET Web Forms, Node.js (Basics) |
+|----|------|
+| Frontend | HTML, CSS, JavaScript, Bootstrap |
+| Backend | C#, ASP.NET Web Forms, Node.js |
 | Database | SQL Server, MySQL |
 | Architecture | 2-Tier, 3-Tier |
-| Tools | Visual Studio, VS Code |
-| UI / Design | Canva, Figma (Basic) |
+| Tools | Visual Studio, VS Code, Git, GitHub |
+| UI / Design | Guna UI, Canva, Figma (Basic) |
 
 ---
 
 ## 📂 Projects
 
-### 🏫 Institute Management System (Academic Project)
+### 🏫 Institute Management System (Academic Desktop Project)
 
-**C#.NET · SQL Server · Visual Studio**
+**C#.NET · SQL Server · Guna UI · Visual Studio**
 
-A desktop-based academic project developed to understand how management systems function internally.
+A desktop-based management system developed to understand how academic and administrative systems function internally.
 
 **My contribution (entire project):**
 - Designed all Windows Forms  
-- Implemented frontend UI using Guna UI  
-- Created and connected SQL Server database  
-- Performed CRUD operations  
-- Applied 2-Tier architecture  
-- Wrote backend logic in C#  
+- Implemented UI using **Guna UI**
+- Designed and connected **SQL Server database**
+- Implemented CRUD operations
+- Applied **2-Tier architecture**
+- Wrote backend logic in **C#**
 
-🔗 GitHub Repository:  
+🔗 GitHub Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-### 🛍 Crème Studio – E-Commerce Website (Complete Full Stack Project)
+### 🛍 Crème Studio – E-Commerce Website (Full Stack Project)
 
-**ASP.NET Web Forms · C# · SQL Server · HTML · CSS**
+**ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript**
 
 A complete e-commerce web application developed independently to understand real-world full stack development.
 
-This project includes **Frontend, Backend, Database, User module, and Admin module**, all designed and implemented by me.
+This project includes **both User and Admin modules**, fully designed and implemented by me.
 
 **My contribution (100% ownership):**
-- Designed and developed **Frontend UI** for all pages  
-- Built **User module**
-  - Registration and Login  
-  - Product listing and product details  
-  - Add-to-cart functionality  
-  - Checkout and order placement  
-- Built **Admin module**
-  - Product management (Add, Update, Delete)  
-  - Category and data management  
-  - Order handling and basic admin control  
-- Designed **SQL Server database schema**
-- Implemented database connectivity and CRUD logic  
+- Designed and developed full frontend UI
+- Built User module:
+  - Registration and Login
+  - Product listing and product details
+  - Add to cart and checkout
+- Built Admin module:
+  - Product and category management
+  - Order handling
+- Designed SQL Server database schema
+- Implemented backend logic using C#
 - Applied **3-Tier architecture concepts**
-- Handled complete backend logic using C#  
 
-🔗 GitHub Repository:  
+🔗 GitHub Repository  
 https://github.com/nikitathanki/Cremestudio
 
 ---
 
 ## 📚 Currently Learning
 
-- Node.js fundamentals  
-- ASP.NET MVC basics  
+- ASP.NET MVC  
+- Advanced Node.js concepts  
+- REST API development  
 - LINQ fundamentals  
 - Writing cleaner and reusable C# code  
-- Improving CSS layouts and UI consistency  
-- Understanding scalable project structure  
+- Improving UI consistency and scalability  
 
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
 </p>
