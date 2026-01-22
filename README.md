@@ -3,7 +3,7 @@
 ========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student+%7C+Full+Stack+Developer;ASP.NET+%7C+Node.js+%7C+Databases;Building+Complete+Real--World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Student+%7C+Full+Stack+Developer;ASP.NET+%7C+Node.js+%7C+Databases;Building+Complete+Real-World+Systems" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
   <img src="https://img.shields.io/badge/BCA-Student-B76E79?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Real--World%20Development-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-End--to--End%20Development-B76E79?style=flat-square" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ I enjoy working across the complete development lifecycle:
 - Database design and integration  
 - UI design and application structure  
 
-I focus on understanding how systems work end-to-end rather than building isolated features.
+I focus on understanding how systems work **end-to-end**, not just building isolated features.
 
 <p align="center"><i>Build the full system. Understand every part.</i></p>
 
@@ -41,9 +41,9 @@ I focus on understanding how systems work end-to-end rather than building isolat
 ### Software Development Intern – **TechRover**  
 **Full Stack Development (Node.js · React · PostgreSQL)**
 
-- Worked on **frontend development using React**
-- Developed **backend APIs using Node.js**
-- Integrated **PostgreSQL database** with backend services
+- Developed frontend components using **React**
+- Built backend APIs using **Node.js**
+- Integrated **PostgreSQL** with backend services
 - Implemented CRUD operations and basic authentication
 - Assisted in debugging, testing, and improving application flow
 - Gained real-world exposure to JavaScript-based full stack development
@@ -57,7 +57,7 @@ I focus on understanding how systems work end-to-end rather than building isolat
 </p>
 
 | Area | Skills |
-|----|------|
+|------|-------|
 | Frontend | HTML, CSS, JavaScript, Bootstrap, React |
 | Backend | C#, ASP.NET Web Forms, Node.js |
 | Database | SQL Server, PostgreSQL |
@@ -69,17 +69,33 @@ I focus on understanding how systems work end-to-end rather than building isolat
 
 ## 📂 Projects
 
-### 🏫 Institute Management System (Academic Desktop Project)
+### 🛍 Crème Studio – E-Commerce Website (Full Stack Project)
+**ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript**
 
+A complete e-commerce web application developed independently to understand real-world full stack development.
+
+**Key Highlights**
+- User module: Registration, Login, Product listing, Cart, Checkout
+- Admin module: Product & Category management, Order handling
+- Designed structured **SQL Server database schema**
+- Implemented backend logic using **C#**
+- Applied **3-Tier architecture**
+
+🔗 GitHub Repository  
+https://github.com/nikitathanki/Cremestudio
+
+---
+
+### 🏫 Institute Management System (Academic Desktop Project)
 **C#.NET · SQL Server · Guna UI · Visual Studio**
 
-A desktop-based management system developed to understand how academic and administrative systems function internally.
+A desktop-based academic management system developed to understand internal administrative workflows.
 
-**My contribution (entire project):**
-- Designed all Windows Forms  
+**My Contribution (Entire Project)**
+- Designed all Windows Forms
 - Implemented UI using **Guna UI**
 - Designed and connected **SQL Server database**
-- Implemented CRUD operations
+- Implemented full CRUD operations
 - Applied **2-Tier architecture**
 - Wrote backend logic in **C#**
 
@@ -88,37 +104,10 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-### 🛍 Crème Studio – E-Commerce Website (Full Stack Project)
-
-**ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript**
-
-A complete e-commerce web application developed independently to understand real-world full stack development.
-
-This project includes **both User and Admin modules**, fully designed and implemented by me.
-
-**My contribution (100% ownership):**
-- Designed and developed full frontend UI
-- Built User module:
-  - Registration and Login
-  - Product listing and product details
-  - Add to cart and checkout
-- Built Admin module:
-  - Product and category management
-  - Order handling
-- Designed SQL Server database schema
-- Implemented backend logic using C#
-- Applied **3-Tier architecture concepts**
-
-🔗 GitHub Repository  
-https://github.com/nikitathanki/Cremestudio
-
----
-
 ## 📚 Currently Learning
 
-- Advanced React concepts  
-- REST API design  
 - ASP.NET MVC  
+- REST API design  
 - LINQ fundamentals  
 - Writing cleaner and reusable C# code  
 - Improving UI consistency and scalable project structure  
@@ -146,6 +135,6 @@ https://github.com/nikitathanki/Cremestudio
 
 <p align="center">
 <b>Fun Fact</b><br>
-I prefer building complete projects and improving them over time.<br>
+I prefer building complete systems and improving them over time.<br>
 <i>Understanding the full flow matters.</i>
 </p>
