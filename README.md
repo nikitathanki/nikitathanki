@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
-  <img src="https://img.shields.io/badge/BCA-Student-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/BCA-Final%20Year-B76E79?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-End--to--End%20Development-B76E79?style=flat-square" />
 </p>
 
@@ -22,15 +22,11 @@
 
 ## 👋 About Me
 
-Hi, I’m **Nikita Thanki**, a **Bachelor of Computer Applications (BCA) student** with hands-on experience in building **full stack web and desktop applications**.
+Hi, I’m **Nikita Thanki**, a **Bachelor of Computer Applications (BCA) final-year student** with hands-on experience in building **full stack web and desktop applications**.
 
-I enjoy working across the complete development lifecycle:
-- Frontend development  
-- Backend logic  
-- Database design and integration  
-- UI design and application structure  
+I enjoy working across the complete development lifecycle — from **frontend UI** to **backend logic** and **database design** — with a strong focus on understanding systems **end-to-end**.
 
-I focus on understanding how systems work **end-to-end**, not just building isolated features.
+🎯 Currently seeking **Internship / Entry-Level Software Developer opportunities** where I can contribute, learn, and grow through real-world development.
 
 <p align="center"><i>Build the full system. Understand every part.</i></p>
 
@@ -38,7 +34,7 @@ I focus on understanding how systems work **end-to-end**, not just building isol
 
 ## 💼 Internship Experience
 
-### Software Development Intern – **TechRover**  
+### Software Development Intern — **TechRover**  
 **Full Stack Development (Node.js · React · PostgreSQL)**
 
 - Developed frontend components using **React**
@@ -69,37 +65,37 @@ I focus on understanding how systems work **end-to-end**, not just building isol
 
 ## 📂 Projects
 
-### 🛍 Crème Studio – E-Commerce Website (Full Stack Project)
+### 🛍 Crème Studio — E-Commerce Website (Full Stack Project)  
 **ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript**
 
-A complete e-commerce web application developed independently to understand real-world full stack development.
+A complete e-commerce web application developed independently to understand **real-world full stack architecture, authentication flow, and database design**.
 
 **Key Highlights**
-- User module: Registration, Login, Product listing, Cart, Checkout
-- Admin module: Product & Category management, Order handling
-- Designed structured **SQL Server database schema**
-- Implemented backend logic using **C#**
-- Applied **3-Tier architecture**
+- User module: Registration, Login, Product listing, Cart, Checkout  
+- Admin module: Product & Category management, Order handling  
+- Structured **SQL Server database schema design**  
+- Backend business logic implemented in **C#**  
+- Applied **3-Tier architecture** for scalability  
 
-🔗 GitHub Repository  
+🔗 Repository  
 https://github.com/nikitathanki/Cremestudio
 
 ---
 
-### 🏫 Institute Management System (Academic Desktop Project)
+### 🏫 Institute Management System — Desktop Application  
 **C#.NET · SQL Server · Guna UI · Visual Studio**
 
-A desktop-based academic management system developed to understand internal administrative workflows.
+A desktop-based academic management system built to understand **institutional workflows, data handling, and layered application architecture**.
 
-**My Contribution (Entire Project)**
-- Designed all Windows Forms
-- Implemented UI using **Guna UI**
+**My Contribution (Complete System Development)**
+- Designed all **Windows Forms UI**
+- Implemented modern interface using **Guna UI**
 - Designed and connected **SQL Server database**
-- Implemented full CRUD operations
+- Implemented full **CRUD operations**
 - Applied **2-Tier architecture**
-- Wrote backend logic in **C#**
+- Developed backend logic using **C#**
 
-🔗 GitHub Repository  
+🔗 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
@@ -109,10 +105,16 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 - ASP.NET MVC  
 - REST API design  
 - LINQ fundamentals  
-- Writing cleaner and reusable C# code  
-- Improving UI consistency and scalable project structure  
+- Writing cleaner, reusable C# code  
+- Improving UI consistency and scalable architecture  
 
 ---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&title_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
@@ -135,6 +137,6 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <p align="center">
 <b>Fun Fact</b><br>
-I prefer building complete systems and improving them over time.<br>
+I enjoy building complete systems and continuously improving them.<br>
 <i>Understanding the full flow matters.</i>
 </p>
