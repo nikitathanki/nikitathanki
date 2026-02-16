@@ -110,18 +110,6 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&title_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=B76E79&text_color=3B2F2F&bg_color=FFFFFF" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
