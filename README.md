@@ -3,7 +3,11 @@
 ======================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=34&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;Full+Stack+Developer;ASP.NET+%7C+Node.js+%7C+SQL;Building+Complete+End-to-End+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Final+Year+%7C+Full+Stack+Developer;ASP.NET+%7C+Node.js+%7C+Databases;Building+Complete+End-to-End+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </p>
 
 <p align="center">
@@ -18,15 +22,11 @@
 
 Hi, I’m **Nikita Thanki**, a BCA final-year student focused on full stack software development.
 
-I build complete systems — from frontend interface to backend logic and database design. I enjoy understanding how every layer connects and ensuring applications function as one cohesive system.
+I build complete systems — from frontend user interfaces to backend business logic and structured database design. I enjoy understanding how each layer connects and ensuring applications function smoothly as one cohesive system.
 
-My core strength is working across:
-- User interface development  
-- Backend implementation  
-- Structured database design  
-- 2-Tier and 3-Tier architecture  
+I am currently seeking **Internship / Entry-Level Software Developer opportunities** where I can contribute to real-world development and grow into a production-ready engineer.
 
-I am currently seeking **Internship / Entry-Level Software Developer opportunities** where I can contribute to real projects and continue growing as a production-ready developer.
+<p align="center"><i>Build the full system. Understand every layer.</i></p>
 
 ---
 
@@ -35,38 +35,42 @@ I am currently seeking **Internship / Entry-Level Software Developer opportuniti
 ### Software Development Intern — TechRover  
 **Full Stack Development (React · Node.js · PostgreSQL)**
 
-- Developed dynamic frontend components using React  
+- Developed frontend components using React  
 - Built backend APIs using Node.js  
 - Integrated PostgreSQL database with backend services  
 - Implemented CRUD operations and authentication logic  
-- Assisted in debugging and improving overall application flow  
-- Gained real-world exposure to full stack JavaScript architecture  
+- Assisted in debugging, testing, and improving application flow  
+- Gained practical exposure to full stack JavaScript architecture  
 
 ---
 
 ## 🛠 Technical Skills
 
+| Category | Skills |
+|----------|--------|
+| **Frontend** | HTML, CSS, JavaScript, Bootstrap, React |
+| **Backend** | C#, ASP.NET Web Forms, Node.js |
+| **Database** | SQL Server, PostgreSQL, Database Schema Design, Normalization |
+| **Architecture** | 2-Tier Architecture, 3-Tier Architecture |
+| **Tools & IDEs** | Visual Studio, VS Code, Git, GitHub, Postman |
+| **UI / Design** | Guna UI, Canva, Figma (Basic) |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,cs,dotnet,visualstudio,vscode,postgresql,git,github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=default&title_color=B76E79&icon_color=B76E79&text_color=333333&bg_color=ffffff&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&theme=default&title_color=B76E79&text_color=333333&bg_color=ffffff&hide_border=true" />
 </p>
 
-### Frontend
-HTML · CSS · JavaScript · Bootstrap · React  
+---
 
-### Backend
-C# · ASP.NET Web Forms · Node.js  
+## 🔥 Contribution Streak
 
-### Database
-SQL Server · PostgreSQL · Database schema design · Normalization  
-
-### Architecture
-2-Tier · 3-Tier Application Design  
-
-### Tools
-Visual Studio · VS Code · Git · GitHub · Postman  
-
-### UI / Design
-Guna UI · Canva · Figma (Basic)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikitathanki&theme=default&hide_border=true&ring=B76E79&fire=B76E79&currStreakLabel=B76E79" />
+</p>
 
 ---
 
@@ -77,16 +81,16 @@ Guna UI · Canva · Figma (Basic)
 ### 🛍 Crème Studio — Full Stack E-Commerce Website  
 **ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript**
 
-A complete e-commerce web application developed independently to understand real-world system architecture and business logic implementation.
+A complete e-commerce web application developed independently to understand real-world architecture, authentication flow, and database management.
 
 **Key Features**
-- User authentication (Register / Login)  
-- Product listing and category management  
+- User Registration and Login  
+- Product listing with category management  
 - Add to Cart and Checkout flow  
-- Admin panel for product and order management  
-- Structured SQL Server database design  
-- Implemented business logic using C#  
-- Applied 3-Tier architecture for separation of concerns  
+- Admin panel for managing products and orders  
+- Structured SQL Server database schema  
+- Backend business logic implemented in C#  
+- Applied 3-Tier architecture  
 
 🔗 Repository  
 https://github.com/nikitathanki/Cremestudio  
@@ -96,7 +100,7 @@ https://github.com/nikitathanki/Cremestudio
 ### 🏫 Institute Management System — Desktop Application  
 **C#.NET · SQL Server · Guna UI · Visual Studio**
 
-A desktop-based academic management system designed to simulate real institutional workflows.
+A desktop-based academic management system designed to simulate institutional workflows and database-driven operations.
 
 **System Capabilities**
 - Student and course management  
@@ -146,13 +150,6 @@ I value:
 
 ---
 
-## 📄 Resume
-
-You can request my latest resume via LinkedIn or email.  
-(You can also upload a PDF to your repository later and link it here.)
-
----
-
 <p align="center">
-  <i>Build complete systems. Understand every layer. Keep improving.</i>
+  <i>Understand the architecture. Build the system. Keep improving.</i>
 </p>
