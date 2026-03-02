@@ -57,23 +57,6 @@ I am currently seeking **Internship / Entry-Level Software Developer opportuniti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=default&title_color=B76E79&icon_color=B76E79&text_color=333333&bg_color=ffffff&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&theme=default&title_color=B76E79&text_color=333333&bg_color=ffffff&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikitathanki&theme=default&hide_border=true&ring=B76E79&fire=B76E79&currStreakLabel=B76E79" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ---
