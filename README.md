@@ -5,10 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Final+Year+%7C+Full+Stack+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Structured+Full+Stack+Applications" />
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Internship%20%7C%20Entry%20Level-B76E79?style=flat-square" />
