@@ -120,12 +120,6 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 - Advanced SQL
 
 ---
-
-# 🎥 Coding Content
-
-I share coding tutorials and beginner-friendly development projects through **CodeByNikita**.
-
----
 # 🌐 Coding Content
 
 <p align="center">
