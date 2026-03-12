@@ -24,11 +24,27 @@ Hi, I’m **Nikita Thanki**, a BCA final-year student at **Dr. V. R. Godhaniya I
 
 I focus on **Full Stack Web Development** and enjoy building structured, functional, and user-friendly applications. My work mainly involves **ASP.NET, C#, SQL Server, HTML, CSS, and JavaScript**.
 
-I like understanding how **frontend, backend, and database layers connect** to create complete systems.
+I enjoy understanding how **frontend, backend, and database layers connect together** to build reliable systems.
 
-I am currently looking for **Internship or Entry-Level Software Developer opportunities** to gain real-world development experience.
+I am currently seeking **Internship or Entry-Level Software Developer opportunities** where I can contribute to real-world development and continue improving my technical skills.
 
-<p align="center"><i>Build the system. Understand every layer.</i></p>
+---
+
+# 💼 Internship Experience
+
+## Software Development Intern — TechRover  
+**Full Stack Development (React · Node.js · PostgreSQL)**
+
+During my internship at **TechRover**, I worked on full stack web development and gained practical exposure to modern development workflows.
+
+**Key Contributions**
+
+- Developed frontend components using **React**
+- Built backend APIs using **Node.js**
+- Integrated **PostgreSQL** database with backend services
+- Implemented CRUD operations and authentication logic
+- Assisted in debugging and improving application performance
+- Learned practical full stack development architecture
 
 ---
 
@@ -56,8 +72,8 @@ A full-stack e-commerce web application created to understand authentication sys
 - Add to Cart functionality  
 - Checkout flow  
 - Admin panel for product management  
-- Structured SQL Server database  
-- Backend logic implemented in C#  
+- Structured SQL Server database design  
+- Backend business logic implemented in C#  
 - Implemented **3-Tier Architecture**
 
 Repository  
@@ -119,13 +135,17 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 # ✨ Developer Mindset
 
-> Build the full system. Understand every layer. Keep improving.
+> Turn ideas into working systems.  
+> Write clean and meaningful code.  
+> Think like a developer.  
+> Build systems that solve real problems.  
+> Keep learning. Keep improving.
 
 ---
 
 # 🎥 Coding Content
 
-I also share coding tutorials and beginner-friendly development projects through my platform **CodeByNikita** where I explain programming concepts and coding practices.
+I also share coding tutorials and beginner-friendly development projects through my platform **CodeByNikita**, where I explain programming concepts and coding practices.
 
 ---
 
@@ -156,5 +176,9 @@ I value:
 ---
 
 <p align="center">
-<i>Understand the architecture. Build the system. Keep improving.</i>
+<i>Think like a developer.</i><br>
+<i>Write clean and meaningful code.</i><br>
+<i>Turn ideas into working systems.</i><br>
+<i>Build systems that solve real problems.</i><br>
+<i>Keep learning. Keep improving.</i>
 </p>
