@@ -170,10 +170,7 @@ I value:
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/nikitathanki/nikitathanki/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
+![snake animation](https://github.com/nikitathanki/nikitathanki/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 📫 Connect With Me
