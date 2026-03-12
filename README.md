@@ -3,7 +3,7 @@
 ======================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Final+Year+%7C+Full+Stack+Developer;ASP.NET+%7C+Node.js+%7C+Databases;Building+Complete+End-to-End+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Final+Year+%7C+Full+Stack+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Complete+Database+Driven+Applications" />
 </p>
 
 <p align="center">
@@ -18,109 +18,131 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-Hi, I’m **Nikita Thanki**, a BCA final-year student focused on full stack software development.
+Hi, I’m **Nikita Thanki**, a BCA final-year student at **Dr. V. R. Godhaniya IT College**, affiliated with **Bhakta Kavi Narsinh Mehta University**.
 
-I build complete systems — from frontend user interfaces to backend business logic and structured database design. I enjoy understanding how each layer connects and ensuring applications function smoothly as one cohesive system.
+I focus on **Full Stack Web Development** and enjoy building structured, functional, and user-friendly applications. My work mainly involves **ASP.NET, C#, SQL Server, HTML, CSS, and JavaScript**.
 
-I am currently seeking **Internship / Entry-Level Software Developer opportunities** where I can contribute to real-world development and grow into a production-ready engineer.
+I like understanding how **frontend, backend, and database layers connect** to create complete systems.
 
-<p align="center"><i>Build the full system. Understand every layer.</i></p>
+I am currently looking for **Internship or Entry-Level Software Developer opportunities** to gain real-world development experience.
 
----
-
-## 💼 Internship Experience
-
-### Software Development Intern — TechRover  
-**Full Stack Development (React · Node.js · PostgreSQL)**
-
-- Developed frontend components using React  
-- Built backend APIs using Node.js  
-- Integrated PostgreSQL database with backend services  
-- Implemented CRUD operations and authentication logic  
-- Assisted in debugging, testing, and improving application flow  
-- Gained practical exposure to full stack JavaScript architecture  
+<p align="center"><i>Build the system. Understand every layer.</i></p>
 
 ---
 
-## 🛠 Technical Skills
+# 💻 Tech Stack
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | HTML, CSS, JavaScript, Bootstrap, React |
-| **Backend** | C#, ASP.NET Web Forms, Node.js |
-| **Database** | SQL Server, PostgreSQL, Database Schema Design, Normalization |
-| **Architecture** | 2-Tier Architecture, 3-Tier Architecture |
-| **Tools & IDEs** | Visual Studio, VS Code, Git, GitHub, Postman |
-| **UI / Design** | Guna UI, Canva, Figma (Basic) |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,vscode,git,github,mysql" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 ---
 
-### 🛍 Crème Studio — Full Stack E-Commerce Website  
+## 🛍 Crème Studio — E-Commerce Website  
 **ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript**
 
-A complete e-commerce web application developed independently to understand real-world architecture, authentication flow, and database management.
+A full-stack e-commerce web application created to understand authentication systems, product management, and database-driven development.
 
 **Key Features**
-- User Registration and Login  
-- Product listing with category management  
-- Add to Cart and Checkout flow  
-- Admin panel for managing products and orders  
-- Structured SQL Server database schema  
-- Backend business logic implemented in C#  
-- Applied 3-Tier architecture  
 
-🔗 Repository  
-https://github.com/nikitathanki/Cremestudio  
+- User Registration and Login  
+- Product listing from SQL Server database  
+- Add to Cart functionality  
+- Checkout flow  
+- Admin panel for product management  
+- Structured SQL Server database  
+- Backend logic implemented in C#  
+- Implemented **3-Tier Architecture**
+
+Repository  
+https://github.com/nikitathanki/Cremestudio
 
 ---
 
-### 🏫 Institute Management System — Desktop Application  
+## 🏫 Institute Management System — Desktop Application  
 **C#.NET · SQL Server · Guna UI · Visual Studio**
 
-A desktop-based academic management system designed to simulate institutional workflows and database-driven operations.
+A desktop-based academic management system developed to simulate institutional workflows and database-driven operations.
 
 **System Capabilities**
-- Student and course management  
+
+- Student management  
+- Course and subject management  
 - Complete CRUD operations  
 - SQL Server integration  
-- Modernized Windows Forms UI using Guna UI  
-- Implemented 2-Tier architecture  
-- Backend logic developed in C#  
+- Windows Forms UI using Guna UI  
+- Implemented **2-Tier Architecture**
 
-🔗 Repository  
-https://github.com/nikitathanki/INSTITUTEMANAGEMENT  
+Repository  
+https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - ASP.NET MVC  
-- REST API development  
-- LINQ fundamentals  
-- Writing reusable and maintainable C# code  
-- Improving scalable architecture patterns  
+- REST API Development  
+- LINQ in C#  
+- Writing reusable backend logic  
+- Improving scalable architecture
 
 ---
 
-## 🎯 Career Focus
+# 📈 GitHub Stats
 
-My goal is to grow into a professional full stack engineer capable of building scalable, maintainable, and production-ready systems.
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true)
+
+---
+
+# 📊 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki)
+
+---
+
+# 🚀 Learning Roadmap
+
+- ASP.NET MVC  
+- Entity Framework  
+- REST APIs  
+- Advanced SQL  
+- Scalable System Design  
+- Cloud basics
+
+---
+
+# ✨ Developer Mindset
+
+> Build the full system. Understand every layer. Keep improving.
+
+---
+
+# 🎥 Coding Content
+
+I also share coding tutorials and beginner-friendly development projects through my platform **CodeByNikita** where I explain programming concepts and coding practices.
+
+---
+
+# 🎯 Career Goal
+
+My goal is to grow into a professional **Full Stack Software Developer** capable of building scalable, maintainable, and production-ready systems.
 
 I value:
+
 - Clean architecture  
-- Clear logic flow  
-- Structured database design  
-- Continuous learning  
+- Structured backend logic  
+- Efficient database design  
+- Continuous learning
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/">
@@ -134,5 +156,5 @@ I value:
 ---
 
 <p align="center">
-  <i>Understand the architecture. Build the system. Keep improving.</i>
+<i>Understand the architecture. Build the system. Keep improving.</i>
 </p>
