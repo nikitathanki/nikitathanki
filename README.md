@@ -24,7 +24,7 @@ Hi, I’m **Nikita Thanki**, a BCA final-year student at **Dr. V. R. Godhaniya I
 
 I focus on **Full Stack Web Development** and enjoy building structured, functional, and user-friendly applications. My work mainly involves **ASP.NET, C#, SQL Server, HTML, CSS, and JavaScript**.
 
-I enjoy understanding how **frontend, backend, and database layers connect together** to build reliable systems.
+I enjoy understanding how **frontend, backend, and database layers connect** to create complete systems.
 
 I am currently seeking **Internship or Entry-Level Software Developer opportunities** where I can contribute to real-world development and continue improving my technical skills.
 
@@ -35,16 +35,16 @@ I am currently seeking **Internship or Entry-Level Software Developer opportunit
 ## Software Development Intern — TechRover  
 **Full Stack Development (React · Node.js · PostgreSQL)**
 
-During my internship at **TechRover**, I worked on full stack web development and gained practical exposure to modern development workflows.
+During my internship at **TechRover**, I worked on full stack development and gained practical exposure to real-world development workflows.
 
 **Key Contributions**
 
 - Developed frontend components using **React**
 - Built backend APIs using **Node.js**
-- Integrated **PostgreSQL** database with backend services
+- Integrated **PostgreSQL database** with backend services
 - Implemented CRUD operations and authentication logic
 - Assisted in debugging and improving application performance
-- Learned practical full stack development architecture
+- Gained exposure to full stack JavaScript architecture
 
 ---
 
@@ -84,7 +84,7 @@ https://github.com/nikitathanki/Cremestudio
 ## 🏫 Institute Management System — Desktop Application  
 **C#.NET · SQL Server · Guna UI · Visual Studio**
 
-A desktop-based academic management system developed to simulate institutional workflows and database-driven operations.
+A desktop-based academic management system designed to simulate institutional workflows and database-driven operations.
 
 **System Capabilities**
 
@@ -106,13 +106,19 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 - REST API Development  
 - LINQ in C#  
 - Writing reusable backend logic  
-- Improving scalable architecture
+- Improving scalable application architecture
 
 ---
 
 # 📈 GitHub Stats
 
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nikitathanki)
 
 ---
 
@@ -145,7 +151,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 # 🎥 Coding Content
 
-I also share coding tutorials and beginner-friendly development projects through my platform **CodeByNikita**, where I explain programming concepts and coding practices.
+I also share coding tutorials and beginner-friendly development projects through my platform **CodeByNikita**, where I explain programming concepts and development practices.
 
 ---
 
@@ -159,6 +165,14 @@ I value:
 - Structured backend logic  
 - Efficient database design  
 - Continuous learning
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/nikitathanki/nikitathanki/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -176,9 +190,7 @@ I value:
 ---
 
 <p align="center">
-<i>Think like a developer.</i><br>
 <i>Write clean and meaningful code.</i><br>
 <i>Turn ideas into working systems.</i><br>
-<i>Build systems that solve real problems.</i><br>
 <i>Keep learning. Keep improving.</i>
 </p>
