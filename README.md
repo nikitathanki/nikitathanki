@@ -126,6 +126,25 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 I share coding tutorials and beginner-friendly development projects through **CodeByNikita**.
 
 ---
+# 🌐 Coding Content
+
+<p align="center">
+
+<a href="https://youtube.com/@codebynikita?si=7TCdpdl_It184oIz">
+<img src="https://img.shields.io/badge/YouTube-CodeByNikita-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/codebynikita?igsh=b3Jyc3FyYzl4bnFt">
+<img src="https://img.shields.io/badge/Instagram-CodeByNikita-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+I share coding tutorials, programming tips, and development projects through <b>CodeByNikita</b>.
+</p>
+
+---
 
 # ✨ Beyond Coding
 
@@ -136,6 +155,7 @@ Outside development, I also run a small creative writing platform called **Words
 # 📫 Connect With Me
 
 <p align="center">
+
 
 <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
