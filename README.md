@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;BCA+Final+Year+%7C+Full+Stack+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Structured+Full+Stack+Applications" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230"/>
 </p>
 
 <p align="center">
