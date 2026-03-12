@@ -1,5 +1,5 @@
 <!-- =======================================
-        Nikita Thanki | Full Stack Developer
+        Nikita Thanki | Full Stack Web Developer
 ======================================== -->
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 I am a **BCA final-year student** at **Dr. V. R. Godhaniya IT College**, affiliated with **Bhakta Kavi Narsinh Mehta University**.
 
-I focus on **Full Stack Web Development**, building applications where the **frontend, backend, and database work together smoothly**.
+My focus is **Full Stack Web Development**, building applications where the **frontend, backend, and database work together smoothly**.
 
 Primary technologies I work with:
 
-ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
+**ASP.NET • C# • SQL Server • HTML • CSS • JavaScript**
 
-I enjoy building **structured web applications with clean backend logic and scalable database design**.
+I enjoy designing **structured web systems with clean backend logic and scalable database design**.
 
 ---
 
@@ -120,6 +120,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 - Advanced SQL
 
 ---
+
 # 🌐 Coding Content
 
 <p align="center">
@@ -140,16 +141,9 @@ I share coding tutorials, programming tips, and development projects through <b>
 
 ---
 
-# ✨ Beyond Coding
-
-Outside development, I also run a small creative writing platform called **WordsofNikita**, where I share short reflective writing.
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
-
 
 <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
