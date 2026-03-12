@@ -35,7 +35,7 @@ I am currently seeking **Internship or Entry-Level Software Developer opportunit
 ## Software Development Intern — TechRover  
 **Full Stack Development (React · Node.js · PostgreSQL)**
 
-During my internship at **TechRover**, I worked on full stack development and gained practical exposure to real-world development workflows.
+During my internship at **TechRover**, I worked on full stack development and gained practical exposure to modern development workflows.
 
 **Key Contributions**
 
@@ -57,8 +57,6 @@ During my internship at **TechRover**, I worked on full stack development and ga
 ---
 
 # 📂 Featured Projects
-
----
 
 ## 🛍 Crème Studio — E-Commerce Website  
 **ASP.NET Web Forms · C# · SQL Server · HTML · CSS · JavaScript**
@@ -84,7 +82,7 @@ https://github.com/nikitathanki/Cremestudio
 ## 🏫 Institute Management System — Desktop Application  
 **C#.NET · SQL Server · Guna UI · Visual Studio**
 
-A desktop-based academic management system designed to simulate institutional workflows and database-driven operations.
+A desktop-based academic management system developed to simulate institutional workflows and database-driven operations.
 
 **System Capabilities**
 
@@ -106,23 +104,21 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 - REST API Development  
 - LINQ in C#  
 - Writing reusable backend logic  
-- Improving scalable application architecture
+- Improving scalable architecture
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Activity
 
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true)
 
----
-
-# 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nikitathanki)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact)
+
 ---
 
-# 📊 Contribution Activity
+# 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki)
 
@@ -151,7 +147,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 # 🎥 Coding Content
 
-I also share coding tutorials and beginner-friendly development projects through my platform **CodeByNikita**, where I explain programming concepts and development practices.
+I also share coding tutorials and beginner-friendly development projects through my platform **CodeByNikita**, where I explain programming concepts and coding practices.
 
 ---
 
@@ -170,7 +166,10 @@ I value:
 
 # 🐍 Contribution Snake
 
-![snake animation](https://github.com/nikitathanki/nikitathanki/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/nikitathanki/nikitathanki/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 # 📫 Connect With Me
@@ -187,7 +186,9 @@ I value:
 ---
 
 <p align="center">
+<i>Think like a developer.</i><br>
 <i>Write clean and meaningful code.</i><br>
 <i>Turn ideas into working systems.</i><br>
+<i>Build systems that solve real problems.</i><br>
 <i>Keep learning. Keep improving.</i>
 </p>
