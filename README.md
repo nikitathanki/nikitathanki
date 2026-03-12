@@ -3,7 +3,7 @@
 ======================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;Full+Stack+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;Full+Stack+Web+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+%26+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-B76E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square" />
 </p>
 
 ---
@@ -21,13 +21,13 @@
 
 I am a **BCA final-year student** at **Dr. V. R. Godhaniya IT College**, affiliated with **Bhakta Kavi Narsinh Mehta University**.
 
-My focus is **Full Stack Software Development**, where I build applications that combine **clean backend logic, structured databases, and responsive interfaces**.
+I focus on **Full Stack Web Development**, building applications where the **frontend, backend, and database work together smoothly**.
 
 Primary technologies I work with:
 
 ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
-I enjoy understanding how systems work end-to-end and building software that is **maintainable, scalable, and logically structured**.
+I enjoy building **structured web applications with clean backend logic and scalable database design**.
 
 ---
 
@@ -41,7 +41,7 @@ During my internship I gained practical exposure to modern full stack developmen
 Key contributions:
 
 - Built reusable **React components**
-- Developed backend APIs with **Node.js**
+- Developed backend APIs using **Node.js**
 - Integrated **PostgreSQL database**
 - Implemented **CRUD operations**
 - Assisted with **authentication and debugging**
@@ -56,9 +56,9 @@ Key contributions:
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
-## Crème Studio — E-Commerce Website
+## 🛍 Crème Studio — E-Commerce Website
 
 ASP.NET Web Forms • C# • SQL Server
 
@@ -70,14 +70,14 @@ Features:
 - Checkout system
 - Admin product management
 - SQL Server database design
-- Implemented 3-Tier Architecture
+- Implemented **3-Tier Architecture**
 
 Repository  
 https://github.com/nikitathanki/Cremestudio
 
 ---
 
-## Institute Management System
+## 🏫 Institute Management System
 
 C#.NET • SQL Server • Guna UI
 
@@ -88,7 +88,7 @@ Features:
 - Full CRUD operations
 - SQL Server integration
 - Windows Forms UI with Guna UI
-- Implemented 2-Tier Architecture
+- Implemented **2-Tier Architecture**
 
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
@@ -123,7 +123,13 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 # 🎥 Coding Content
 
-I also share coding tutorials and beginner-friendly development projects through **CodeByNikita**.
+I share coding tutorials and beginner-friendly development projects through **CodeByNikita**.
+
+---
+
+# ✨ Beyond Coding
+
+Outside development, I also run a small creative writing platform called **WordsofNikita**, where I share short reflective writing.
 
 ---
 
