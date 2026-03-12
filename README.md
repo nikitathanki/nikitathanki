@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Internship%20%7C%20Entry%20Level-B76E79?style=flat-square" />
 </p>
