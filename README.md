@@ -71,8 +71,6 @@ My interests:
 
 ---
 
----
-
 # 📚 Currently Learning
 
 <p align="center">
