@@ -95,8 +95,11 @@ SQL Server
 
 ASP.NET Web Forms • C# • SQL Server
 
-Repository  
-https://github.com/nikitathanki/Cremestudio
+<p align="center">
+
+<a href="https://github.com/nikitathanki/Cremestudio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=Cremestudio&title_color=FF69B4&icon_color=FF69B4"/>
+</a>
 
 ---
 
@@ -104,8 +107,9 @@ https://github.com/nikitathanki/Cremestudio
 
 C#.NET • SQL Server • Guna UI
 
-Repository  
-https://github.com/nikitathanki/INSTITUTEMANAGEMENT
+<a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=INSTITUTEMANAGEMENT&title_color=FF69B4&icon_color=FF69B4"/>
+</a>
 
 ---
 
