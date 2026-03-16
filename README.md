@@ -3,7 +3,7 @@
 ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=240&section=header&text=Nikita%20Thanki&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=250&section=header&text=Nikita%20Thanki&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -20,28 +20,29 @@
 
 # 👋 Hello, I'm Nikita
 
-BCA Final Year Student  
+🎓 **BCA Final Year Student**  
 Dr. V. R. Godhaniya IT College  
 Bhakta Kavi Narsinh Mehta University
 
-Focused on **Full Stack Web Development**
+💻 Focused on **Full Stack Web Development**
 
-Technologies:
+Main technologies:
 
-ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
+**ASP.NET • C# • SQL Server • HTML • CSS • JavaScript**
+
+I enjoy building **structured backend systems, scalable databases and clean web applications.**
 
 ---
 
 # 👩‍💻 Developer Portfolio
 
-I enjoy building applications where frontend, backend and database integrate smoothly.
-
-Main interests:
+My interests include:
 
 • Backend architecture  
 • Database design  
-• Full stack web systems  
-• Clean maintainable code  
+• Full stack web development  
+• Writing clean maintainable code  
+• Building real world web systems  
 
 ---
 
@@ -78,12 +79,12 @@ HTML / CSS
 
 ASP.NET Web Forms • C# • SQL Server
 
-Features
+Features:
 
-• User authentication  
+• User authentication system  
 • Product listing from database  
-• Add to cart system  
-• Checkout functionality  
+• Add to cart functionality  
+• Checkout system  
 • Admin product management  
 • Implemented **3-Tier Architecture**
 
@@ -96,12 +97,13 @@ https://github.com/nikitathanki/Cremestudio
 
 C#.NET • SQL Server • Guna UI
 
-Features
+Features:
 
-• Student management  
-• Course modules  
+• Student management system  
+• Course and subject modules  
 • CRUD operations  
 • SQL Server integration  
+• Windows Forms UI
 
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
@@ -153,6 +155,16 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+# 🎯 Current Focus
+
+• ASP.NET MVC  
+• REST API Development  
+• Entity Framework  
+• Backend Architecture  
+• Advanced SQL  
 
 ---
 
