@@ -3,17 +3,17 @@
 ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=260&section=header&text=Nikita%20Thanki&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=260&section=header&text=Nikita%20Thanki&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+Developer;C%23+%7C+SQL+Server+%7C+Web+Development;Building+Clean+%26+Scalable+Applications;Backend+Focused+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+Developer;C%23+%7C+SQL+Server+%7C+Web+Development;Backend+Focused+Developer"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Web%20Development-B76E79?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=FF69B4&style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Web%20Development-FF69B4?style=flat-square"/>
 </p>
 
 ---
@@ -95,15 +95,6 @@ SQL Server
 
 ASP.NET Web Forms • C# • SQL Server
 
-Features:
-
-• User authentication  
-• Product listing from database  
-• Add to cart functionality  
-• Checkout system  
-• Admin product management  
-• Implemented 3 Tier Architecture
-
 Repository  
 https://github.com/nikitathanki/Cremestudio
 
@@ -113,35 +104,8 @@ https://github.com/nikitathanki/Cremestudio
 
 C#.NET • SQL Server • Guna UI
 
-Features:
-
-• Student management  
-• Course modules  
-• CRUD operations  
-• SQL Server integration
-
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
-
----
-
-# 📌 Project Preview
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=Cremestudio"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=INSTITUTEMANAGEMENT"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat"/>
-</p>
 
 ---
 
@@ -149,27 +113,11 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&title_color=FF69B4&icon_color=FF69B4"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&ring=FF69B4&fire=FF69B4"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact"/>
-
-</p>
-
----
-
-# 📊 Developer Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikitathanki&theme=github"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikitathanki&theme=github"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikitathanki&theme=github"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikitathanki&theme=github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=FF69B4"/>
 
 </p>
 
@@ -179,16 +127,8 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki&bg_color=ffffff&color=B76E79&line=B76E79&point=000000&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki&bg_color=ffffff&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true"/>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -198,15 +138,15 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 <p align="center">
 
 <a href="https://youtube.com/@codebynikita">
-<img src="https://img.shields.io/badge/YouTube-CodeByNikita-red?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/badge/YouTube-CodeByNikita-FF69B4?style=for-the-badge&logo=youtube"/>
 </a>
 
 <a href="https://instagram.com/codebynikita">
-<img src="https://img.shields.io/badge/Instagram-CodeByNikita-pink?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-CodeByNikita-FF69B4?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://facebook.com/codebynikita">
-<img src="https://img.shields.io/badge/Facebook-CodeByNikita-blue?style=for-the-badge&logo=facebook"/>
+<img src="https://img.shields.io/badge/Facebook-CodeByNikita-FF69B4?style=for-the-badge&logo=facebook"/>
 </a>
 
 </p>
@@ -218,11 +158,11 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 <p align="center">
 
 <a href="https://www.instagram.com/_wordsofnikita">
-<img src="https://img.shields.io/badge/Instagram-WordsOfNikita-pink?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-WordsOfNikita-FF69B4?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://www.facebook.com/share/181CTWBeEq/">
-<img src="https://img.shields.io/badge/Facebook-WordsOfNikita-blue?style=for-the-badge&logo=facebook"/>
+<img src="https://img.shields.io/badge/Facebook-WordsOfNikita-FF69B4?style=for-the-badge&logo=facebook"/>
 </a>
 
 </p>
@@ -234,11 +174,11 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397">
-<img src="https://img.shields.io/badge/LinkedIn-Nikita%20Thanki-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Nikita%20Thanki-FF69B4?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:thankinikita32@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-FF69B4?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -255,5 +195,5 @@ Keep learning every day
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 </p>
