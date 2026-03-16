@@ -1,5 +1,5 @@
 <!-- =====================================================
-                Nikita Thanki | Frontend Focused Developer
+                Nikita Thanki | Frontend Developer
 ===================================================== -->
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Frontend+Focused+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+and+Beautiful+User+Interfaces"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Frontend+Focused+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+and+Beautiful+Web+Interfaces"/>
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 
 # 👋 Hello, I'm Nikita
 
-🎓 BCA Final Year Student  
+🎓 **BCA Final Year Student**  
 Dr. V. R. Godhaniya IT College  
 Bhakta Kavi Narsinh Mehta University  
 
-💻 Passionate about **Frontend Development and Web Design**
+💻 Passionate about **Frontend Development & UI Design**
 
-Technologies:
+Technologies I work with:
 
 HTML • CSS • JavaScript • ASP.NET • C# • SQL Server
 
@@ -54,7 +54,7 @@ My interests:
 • UI design and layout  
 • Responsive web design  
 • Clean maintainable code  
-• Building real-world web applications
+• Building real-world web applications  
 
 ---
 
@@ -69,48 +69,6 @@ My interests:
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-🌸 Advanced Frontend Development  
-⚡ Responsive UI Design  
-💻 ASP.NET Web Applications  
-🗄 SQL Server Database Design  
-🚀 Building Full Stack Projects  
-
-</p>
-
----
-
-# 🎯 Developer Goals 2026
-
-<p align="center">
-
-💻 Master Frontend Development  
-⚡ Build Advanced ASP.NET Web Apps  
-🎨 Create Beautiful and Responsive Interfaces  
-🗄 Improve Database Design Skills  
-🚀 Work on real world projects  
-🌸 Grow CodeByNikita coding platform  
-
-</p>
-
----
-
-# 🌸 Beyond Coding
-
-<p align="center">
-
-💻 I enjoy designing aesthetic web interfaces  
-🎥 I share coding content on **CodeByNikita**  
-✍️ I write motivational quotes on **WordsOfNikita**  
-🌱 Always learning and improving  
 
 </p>
 
