@@ -126,9 +126,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki&bg_color=ffffff&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true"/>
-
 </p>
 
 ---
