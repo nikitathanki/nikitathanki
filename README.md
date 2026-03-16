@@ -32,6 +32,14 @@ ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
 ---
 
+# 👩‍💻 Coding Life
+
+<p align="center">
+<img src="officedesk.gif" width="500"/>
+</p>
+
+---
+
 # 👩‍💻 About Me
 
 I enjoy building structured web applications where **frontend, backend and database work together smoothly**.
@@ -185,7 +193,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-# 🎥 Coding Content
+# 🎥 CodeByNikita
 
 <p align="center">
 
@@ -195,6 +203,26 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <a href="https://instagram.com/codebynikita">
 <img src="https://img.shields.io/badge/Instagram-CodeByNikita-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://facebook.com/codebynikita">
+<img src="https://img.shields.io/badge/Facebook-CodeByNikita-blue?style=for-the-badge&logo=facebook"/>
+</a>
+
+</p>
+
+---
+
+# ✨ WordsOfNikita
+
+<p align="center">
+
+<a href="https://www.instagram.com/_wordsofnikita">
+<img src="https://img.shields.io/badge/Instagram-WordsOfNikita-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.facebook.com/share/181CTWBeEq/">
+<img src="https://img.shields.io/badge/Facebook-WordsOfNikita-blue?style=for-the-badge&logo=facebook"/>
 </a>
 
 </p>
