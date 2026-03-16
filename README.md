@@ -3,37 +3,37 @@
 ======================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=200&section=header&text=Nikita%20Thanki&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=200&section=header&text=Nikita%20Thanki&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+%26+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+%26+Scalable+Web+Applications;Passionate+About+Backend+Architecture"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square"/>
 </p>
 
 ---
 
 # 👋 Hello, I'm Nikita
 
-I am a **BCA Final-Year Student** at  
+I am a **BCA Final Year Student** at  
 **Dr. V. R. Godhaniya IT College**, affiliated with  
 **Bhakta Kavi Narsinh Mehta University**.
 
-My focus is **Full Stack Web Development**, building applications where the **frontend, backend, and database work together smoothly**.
+I focus on **Full Stack Web Development**, building applications where the **frontend, backend, and database work together smoothly**.
 
-Primary technologies I work with:
+My primary technologies:
 
 **ASP.NET • C# • SQL Server • HTML • CSS • JavaScript**
 
-I enjoy designing **structured web systems with clean backend logic and scalable database design**.
+I enjoy designing **clean backend logic, scalable databases, and structured web systems.**
 
 ---
 
@@ -43,7 +43,7 @@ I enjoy designing **structured web systems with clean backend logic and scalable
 • 💻 Full Stack Web Developer  
 • ⚙️ Focused on ASP.NET & Backend Development  
 • 🗄 Strong interest in Database Design  
-• 🚀 Currently learning scalable backend architecture  
+• 🚀 Learning scalable backend architecture  
 
 ---
 
@@ -51,8 +51,6 @@ I enjoy designing **structured web systems with clean backend logic and scalable
 
 ### Software Development Intern — TechRover  
 React • Node.js • PostgreSQL
-
-During my internship I gained hands-on experience in modern web development.
 
 Key contributions:
 
@@ -76,7 +74,7 @@ Key contributions:
 
 ## 🛍 Crème Studio — E-Commerce Website
 
-ASP.NET Web Forms • C# • SQL Server
+**ASP.NET Web Forms • C# • SQL Server**
 
 Features:
 
@@ -95,13 +93,13 @@ https://github.com/nikitathanki/Cremestudio
 
 ## 🏫 Institute Management System
 
-C#.NET • SQL Server • Guna UI
+**C#.NET • SQL Server • Guna UI**
 
 Features:
 
 • Student management  
 • Course and subject management  
-• Full CRUD operations  
+• CRUD operations  
 • SQL Server integration  
 • Windows Forms UI with Guna UI  
 • Implemented **2-Tier Architecture**
@@ -111,19 +109,31 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Stats
 
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nikitathanki)
+<img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=default"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -132,7 +142,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 • ASP.NET MVC  
 • REST API Development  
 • Entity Framework  
-• Scalable backend architecture  
+• Scalable Backend Architecture  
 • Advanced SQL  
 
 ---
@@ -179,4 +189,8 @@ I share coding tutorials, programming tips, and development projects through <b>
 <i>Turn ideas into working systems.</i><br>
 <i>Build systems that solve real problems.</i><br>
 <i>Keep learning. Keep improving.</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=120&section=footer"/>
 </p>
