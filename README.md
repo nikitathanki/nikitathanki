@@ -30,7 +30,7 @@ Bhakta Kavi Narsinh Mehta University
 
 💻 Passionate about **Frontend Development and Web Design**
 
-Technologies I work with:
+Technologies:
 
 HTML • CSS • JavaScript • ASP.NET • C# • SQL Server
 
@@ -46,16 +46,15 @@ HTML • CSS • JavaScript • ASP.NET • C# • SQL Server
 
 # 👩‍💻 About Me
 
-I enjoy building **clean, responsive and user-friendly web interfaces**.  
-My focus is creating websites where **design, usability and performance work together smoothly**.
+I enjoy building **clean, responsive and user-friendly web interfaces**.
 
 My interests:
 
 • Frontend development  
 • UI design and layout  
 • Responsive web design  
-• Clean and maintainable code  
-• Building real world web applications  
+• Clean maintainable code  
+• Building real-world web applications
 
 ---
 
@@ -73,16 +72,17 @@ My interests:
 
 </p>
 
+---
 
 # 📚 Currently Learning
 
 <p align="center">
 
-🌸 Frontend Development (Advanced CSS & JavaScript)  
+🌸 Advanced Frontend Development  
 ⚡ Responsive UI Design  
-💻 ASP.NET Web Development  
+💻 ASP.NET Web Applications  
 🗄 SQL Server Database Design  
-🚀 Building Full Stack Web Applications  
+🚀 Building Full Stack Projects  
 
 </p>
 
@@ -92,12 +92,12 @@ My interests:
 
 <p align="center">
 
-💻 Master Frontend Development (HTML, CSS, JavaScript)  
-⚡ Build Advanced Web Applications with ASP.NET  
-🎨 Create Clean, Responsive and Beautiful User Interfaces  
-🗄 Improve Database Design using SQL Server  
-🚀 Work on real-world full stack projects  
-🌸 Grow CodeByNikita as a coding content platform  
+💻 Master Frontend Development  
+⚡ Build Advanced ASP.NET Web Apps  
+🎨 Create Beautiful and Responsive Interfaces  
+🗄 Improve Database Design Skills  
+🚀 Work on real world projects  
+🌸 Grow CodeByNikita coding platform  
 
 </p>
 
@@ -107,41 +107,18 @@ My interests:
 
 <p align="center">
 
-💻 I enjoy building clean and aesthetic web interfaces  
-📚 I love learning new technologies and improving every day  
-🎥 I share coding tips on **CodeByNikita**  
-✍️ I write motivational and reflective quotes on **WordsOfNikita**  
-🌱 Always learning, always building
+💻 I enjoy designing aesthetic web interfaces  
+🎥 I share coding content on **CodeByNikita**  
+✍️ I write motivational quotes on **WordsOfNikita**  
+🌱 Always learning and improving  
 
 </p>
-
-
----
-
-# 📊 Skill Progress
-
-HTML / CSS  
-█████████████░ 85%
-
-JavaScript  
-██████████░░░░ 70%
-
-C#  
-████████████░░ 80%
-
-ASP.NET  
-████████████░░ 80%
-
-SQL Server  
-███████████░░░ 75%
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🛍 Crème Studio — E-Commerce Website
-
-ASP.NET Web Forms • C# • SQL Server
 
 <p align="center">
 
@@ -154,8 +131,6 @@ ASP.NET Web Forms • C# • SQL Server
 ---
 
 ## 🏫 Institute Management System
-
-C#.NET • SQL Server • Guna UI
 
 <p align="center">
 
