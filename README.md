@@ -19,25 +19,28 @@
 
 # 👋 Hello, I'm Nikita
 
-I am a **BCA Final Year Student** at  
-**Dr. V. R. Godhaniya IT College**  
-(Bhakti Kavi Narsinh Mehta University)
+BCA Final Year Student  
+Dr. V. R. Godhaniya IT College  
+Bhakta Kavi Narsinh Mehta University
 
 Focused on **Full Stack Web Development**
 
-Main technologies:
+Technologies I work with:
 
 ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻 Developer Portfolio
 
-• BCA Final Year Student  
-• Full Stack Developer  
-• Backend focused developer  
-• Interested in system design  
-• Learning scalable backend architecture  
+I enjoy building structured applications where **frontend, backend and database integrate smoothly**.
+
+Main interests:
+
+• Backend architecture  
+• Database design  
+• Full stack web systems  
+• Clean maintainable code  
 
 ---
 
@@ -49,36 +52,56 @@ ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
 ---
 
+# 📊 Skill Progress
+
+ASP.NET  
+████████████░░ 80%
+
+C#  
+████████████░░ 80%
+
+SQL Server  
+███████████░░░ 75%
+
+JavaScript  
+█████████░░░░░ 65%
+
+HTML / CSS  
+████████████░░ 80%
+
+---
+
 # 🚀 Featured Projects
 
-## Crème Studio — E-Commerce Website
+## 🛍 Crème Studio — E-Commerce Website
 
 ASP.NET Web Forms • C# • SQL Server
 
-Features:
+Features
 
-User authentication  
-Product listing  
-Add to cart  
-Checkout system  
-Admin product management  
-3-Tier architecture  
+• User authentication  
+• Product listing from database  
+• Add to cart system  
+• Checkout functionality  
+• Admin product management  
+• Implemented **3-Tier Architecture**
 
 Repository  
 https://github.com/nikitathanki/Cremestudio
 
 ---
 
-## Institute Management System
+## 🏫 Institute Management System
 
 C#.NET • SQL Server • Guna UI
 
-Features:
+Features
 
-Student management  
-Course modules  
-CRUD operations  
-SQL Server integration  
+• Student management  
+• Course modules  
+• CRUD operations  
+• SQL Server integration  
+• Windows Forms UI
 
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
@@ -141,7 +164,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <p align="center">
 
-<a href="https://linkedin.com/in/nikita-thanki">
+<a href="https://linkedin.com/in/nikita-thanki-543a7b397">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -154,9 +177,10 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 ---
 
 <p align="center">
-Think like a developer<br>
-Write clean code<br>
-Build systems that solve real problems
+Think like a developer  
+Write clean code  
+Build systems that solve real problems  
+Keep learning every day
 </p>
 
 <p align="center">
