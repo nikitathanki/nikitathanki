@@ -13,7 +13,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Backend%20Development-B76E79?style=flat-square"/>
 </p>
 
 ---
@@ -21,24 +20,24 @@
 # 👋 Hello, I'm Nikita
 
 I am a **BCA Final Year Student** at  
-**Dr. V. R. Godhaniya IT College**, affiliated with  
-**Bhakta Kavi Narsinh Mehta University**.
+**Dr. V. R. Godhaniya IT College**  
+(Bhakti Kavi Narsinh Mehta University)
 
-I specialize in **Full Stack Web Development** where frontend, backend and databases work together efficiently.
+Focused on **Full Stack Web Development**
 
-Technologies I use regularly:
+Main technologies:
 
-**ASP.NET • C# • SQL Server • HTML • CSS • JavaScript**
+ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
 ---
 
 # 👩‍💻 About Me
 
-• 🎓 BCA Final Year Student  
-• 💻 Full Stack Web Developer  
-• ⚙️ ASP.NET Backend Developer  
-• 🗄 Database & System Design Enthusiast  
-• 🚀 Learning scalable backend systems
+• BCA Final Year Student  
+• Full Stack Developer  
+• Backend focused developer  
+• Interested in system design  
+• Learning scalable backend architecture  
 
 ---
 
@@ -52,31 +51,34 @@ Technologies I use regularly:
 
 # 🚀 Featured Projects
 
-## 🛍 Crème Studio — E-Commerce Website
+## Crème Studio — E-Commerce Website
 
 ASP.NET Web Forms • C# • SQL Server
 
-• User authentication system  
-• Product listing from database  
-• Add-to-cart functionality  
-• Checkout system  
-• Admin product management  
-• Implemented **3-Tier Architecture**
+Features:
+
+User authentication  
+Product listing  
+Add to cart  
+Checkout system  
+Admin product management  
+3-Tier architecture  
 
 Repository  
 https://github.com/nikitathanki/Cremestudio
 
 ---
 
-## 🏫 Institute Management System
+## Institute Management System
 
 C#.NET • SQL Server • Guna UI
 
-• Student management  
-• Course and subject modules  
-• CRUD operations  
-• SQL Server integration  
-• Windows Forms UI
+Features:
+
+Student management  
+Course modules  
+CRUD operations  
+SQL Server integration  
 
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
@@ -86,7 +88,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat"/>
 </p>
 
 ---
@@ -111,13 +113,11 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-# 🎯 Current Focus
+# 🐍 Contribution Snake
 
-• ASP.NET MVC  
-• REST API Development  
-• Entity Framework  
-• Backend Architecture  
-• Advanced SQL
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -126,11 +126,11 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 <p align="center">
 
 <a href="https://youtube.com/@codebynikita">
-<img src="https://img.shields.io/badge/YouTube-CodeByNikita-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-CodeByNikita-red?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="https://www.instagram.com/codebynikita">
-<img src="https://img.shields.io/badge/Instagram-CodeByNikita-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/codebynikita">
+<img src="https://img.shields.io/badge/Instagram-CodeByNikita-pink?style=for-the-badge&logo=instagram"/>
 </a>
 
 </p>
@@ -141,12 +141,12 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/nikita-thanki-543a7b397/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/nikita-thanki">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:thankinikita32@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -154,10 +154,9 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 ---
 
 <p align="center">
-<i>Think like a developer</i><br>
-<i>Write clean code</i><br>
-<i>Build systems that solve real problems</i><br>
-<i>Keep learning every day</i>
+Think like a developer<br>
+Write clean code<br>
+Build systems that solve real problems
 </p>
 
 <p align="center">
