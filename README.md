@@ -13,6 +13,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-B76E79?style=flat-square"/>
 </p>
 
 ---
@@ -25,7 +26,7 @@ Bhakta Kavi Narsinh Mehta University
 
 Focused on **Full Stack Web Development**
 
-Technologies I work with:
+Technologies:
 
 ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
@@ -33,7 +34,7 @@ ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
 # 👩‍💻 Developer Portfolio
 
-I enjoy building structured applications where **frontend, backend and database integrate smoothly**.
+I enjoy building applications where frontend, backend and database integrate smoothly.
 
 Main interests:
 
@@ -101,10 +102,21 @@ Features
 • Course modules  
 • CRUD operations  
 • SQL Server integration  
-• Windows Forms UI
 
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
+
+---
+
+# 📌 Project Preview
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=Cremestudio"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=INSTITUTEMANAGEMENT"/>
+
+</p>
 
 ---
 
