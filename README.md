@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+🌸 Building beautiful interfaces and meaningful code
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=FF69B4&style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-FF69B4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Focus-Frontend%20Development-FF69B4?style=flat-square"/>
