@@ -13,36 +13,34 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Backend%20Development-B76E79?style=flat-square"/>
 </p>
 
 ---
 
 # 👋 Hello, I'm Nikita
 
-🎓 **BCA Final Year Student**  
+🎓 BCA Final Year Student  
 Dr. V. R. Godhaniya IT College  
 Bhakta Kavi Narsinh Mehta University
 
 💻 Focused on **Full Stack Web Development**
 
-Main technologies:
+Technologies:
 
-**ASP.NET • C# • SQL Server • HTML • CSS • JavaScript**
-
-I enjoy building **structured backend systems, scalable databases and clean web applications.**
+ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
 ---
 
 # 👩‍💻 Developer Portfolio
 
-My interests include:
+I enjoy building structured applications where **frontend, backend and database work together smoothly**.
+
+My interests:
 
 • Backend architecture  
 • Database design  
 • Full stack web development  
-• Writing clean maintainable code  
-• Building real world web systems  
+• Clean maintainable code  
 
 ---
 
@@ -81,7 +79,7 @@ ASP.NET Web Forms • C# • SQL Server
 
 Features:
 
-• User authentication system  
+• User authentication  
 • Product listing from database  
 • Add to cart functionality  
 • Checkout system  
@@ -99,11 +97,10 @@ C#.NET • SQL Server • Guna UI
 
 Features:
 
-• Student management system  
-• Course and subject modules  
+• Student management  
+• Course modules  
 • CRUD operations  
 • SQL Server integration  
-• Windows Forms UI
 
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
@@ -158,16 +155,6 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-# 🎯 Current Focus
-
-• ASP.NET MVC  
-• REST API Development  
-• Entity Framework  
-• Backend Architecture  
-• Advanced SQL  
-
----
-
 # 🌐 Coding Content
 
 <p align="center">
@@ -188,7 +175,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <p align="center">
 
-<a href="https://linkedin.com/in/nikita-thanki-543a7b397">
+<a href="https://www.linkedin.com/in/nikita-thanki-543a7b397">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
