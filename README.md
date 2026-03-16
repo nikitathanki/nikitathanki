@@ -123,10 +123,10 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-# 🌆 Contribution Skyline
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=nikitathanki&bg=ffffff&color=ff69b4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki&bg_color=ffffff&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true"/>
 </p>
 
 ---
