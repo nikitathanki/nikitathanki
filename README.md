@@ -71,6 +71,22 @@ My interests:
 
 ---
 
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+🌸 Frontend Development (Advanced CSS & JavaScript)  
+⚡ Responsive UI Design  
+💻 ASP.NET Web Development  
+🗄 SQL Server Database Design  
+🚀 Building Full Stack Web Applications  
+
+</p>
+
+---
+
 # 📊 Skill Progress
 
 HTML / CSS  
