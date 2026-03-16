@@ -85,6 +85,20 @@ My interests:
 
 ---
 
+# 🎯 Developer Goals 2026
+
+<p align="center">
+
+💻 Master Frontend Development (HTML, CSS, JavaScript)  
+⚡ Build Advanced Web Applications with ASP.NET  
+🎨 Create Clean, Responsive and Beautiful User Interfaces  
+🗄 Improve Database Design using SQL Server  
+🚀 Work on real-world full stack projects  
+🌸 Grow CodeByNikita as a coding content platform  
+
+</p>
+
+---
 # 📊 Skill Progress
 
 HTML / CSS  
