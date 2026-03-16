@@ -1,5 +1,5 @@
 <!-- =====================================================
-                Nikita Thanki | Full Stack Developer
+                Nikita Thanki | Frontend Focused Developer
 ===================================================== -->
 
 <p align="center">
@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+Developer;C%23+%7C+SQL+Server+%7C+Web+Development;Backend+Focused+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Frontend+Focused+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+and+Beautiful+User+Interfaces"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=FF69B4&style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Web%20Development-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Frontend%20Development-FF69B4?style=flat-square"/>
 </p>
 
 ---
@@ -24,11 +24,11 @@
 Dr. V. R. Godhaniya IT College  
 Bhakta Kavi Narsinh Mehta University  
 
-💻 Passionate about **Full Stack Web Development**
+💻 Passionate about **Frontend Development and Web Design**
 
 Technologies I work with:
 
-ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
+HTML • CSS • JavaScript • ASP.NET • C# • SQL Server
 
 ---
 
@@ -42,15 +42,16 @@ ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
 # 👩‍💻 About Me
 
-I enjoy building structured web applications where **frontend, backend and database work together smoothly**.
+I enjoy building **clean, responsive and user-friendly web interfaces**.  
+My focus is creating websites where **design, usability and performance work together smoothly**.
 
 My interests:
 
-• Backend architecture  
-• Database design  
-• Full stack web development  
-• Clean maintainable code  
-• Building real world applications  
+• Frontend development  
+• UI design and layout  
+• Responsive web design  
+• Clean and maintainable code  
+• Building real world web applications  
 
 ---
 
@@ -73,10 +74,10 @@ My interests:
 # 📊 Skill Progress
 
 HTML / CSS  
-████████████░░ 80%
+█████████████░ 85%
 
 JavaScript  
-█████████░░░░░ 65%
+██████████░░░░ 70%
 
 C#  
 ████████████░░ 80%
@@ -101,15 +102,21 @@ ASP.NET Web Forms • C# • SQL Server
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=Cremestudio&title_color=FF69B4&icon_color=FF69B4"/>
 </a>
 
+</p>
+
 ---
 
 ## 🏫 Institute Management System
 
 C#.NET • SQL Server • Guna UI
 
+<p align="center">
+
 <a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=INSTITUTEMANAGEMENT&title_color=FF69B4&icon_color=FF69B4"/>
 </a>
+
+</p>
 
 ---
 
@@ -191,7 +198,7 @@ C#.NET • SQL Server • Guna UI
 
 Think like a developer  
 Write clean code  
-Build systems that solve real problems  
+Build beautiful interfaces  
 Keep learning every day
 
 ---
