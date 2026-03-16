@@ -99,6 +99,21 @@ My interests:
 </p>
 
 ---
+
+---
+
+# 🌸 Beyond Coding
+
+<p align="center">
+
+💻 I enjoy building clean and aesthetic web interfaces  
+📚 I love learning new technologies and improving every day  
+🎥 I share coding tips on **CodeByNikita**  
+✍️ I write motivational and reflective quotes on **WordsOfNikita**  
+🌱 Always learning, always building
+
+</p>
+
 # 📊 Skill Progress
 
 HTML / CSS  
