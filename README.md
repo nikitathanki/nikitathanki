@@ -3,15 +3,11 @@
 ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=230&section=header&text=Nikita%20Thanki&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=240&section=header&text=Nikita%20Thanki&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+%26+Scalable+Web+Applications;Backend+Focused+Developer"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+%26+Scalable+Applications;Backend+Focused+Developer"/>
 </p>
 
 <p align="center">
@@ -28,13 +24,11 @@ I am a **BCA Final Year Student** at
 **Dr. V. R. Godhaniya IT College**, affiliated with  
 **Bhakta Kavi Narsinh Mehta University**.
 
-I focus on **Full Stack Web Development**, creating applications where the **frontend, backend, and database work together smoothly**.
+I specialize in **Full Stack Web Development** where frontend, backend and databases work together efficiently.
 
-Primary technologies:
+Technologies I use regularly:
 
 **ASP.NET • C# • SQL Server • HTML • CSS • JavaScript**
-
-I enjoy building **clean backend logic, scalable databases, and structured web systems**.
 
 ---
 
@@ -44,22 +38,7 @@ I enjoy building **clean backend logic, scalable databases, and structured web s
 • 💻 Full Stack Web Developer  
 • ⚙️ ASP.NET Backend Developer  
 • 🗄 Database & System Design Enthusiast  
-• 🚀 Learning scalable backend architecture  
-
----
-
-# 💼 Internship Experience
-
-### Software Development Intern — TechRover  
-React • Node.js • PostgreSQL
-
-Key contributions:
-
-• Built reusable **React components**  
-• Developed backend APIs using **Node.js**  
-• Integrated **PostgreSQL database**  
-• Implemented **CRUD operations**  
-• Assisted with **authentication and debugging**
+• 🚀 Learning scalable backend systems
 
 ---
 
@@ -77,14 +56,11 @@ Key contributions:
 
 ASP.NET Web Forms • C# • SQL Server
 
-Features
-
-• User registration & login  
+• User authentication system  
 • Product listing from database  
-• Add-to-cart system  
-• Checkout functionality  
+• Add-to-cart functionality  
+• Checkout system  
 • Admin product management  
-• SQL Server database design  
 • Implemented **3-Tier Architecture**
 
 Repository  
@@ -96,24 +72,21 @@ https://github.com/nikitathanki/Cremestudio
 
 C#.NET • SQL Server • Guna UI
 
-Features
-
 • Student management  
-• Course & subject management  
+• Course and subject modules  
 • CRUD operations  
 • SQL Server integration  
-• Windows Forms UI with Guna UI  
-• Implemented **2-Tier Architecture**
+• Windows Forms UI
 
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -138,21 +111,13 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 🎯 Current Focus
 
 • ASP.NET MVC  
 • REST API Development  
 • Entity Framework  
-• Scalable Backend Architecture  
-• Advanced SQL  
+• Backend Architecture  
+• Advanced SQL
 
 ---
 
@@ -168,10 +133,6 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 <img src="https://img.shields.io/badge/Instagram-CodeByNikita-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
-I share coding tutorials, programming tips, and development projects through <b>CodeByNikita</b>.
 </p>
 
 ---
@@ -193,11 +154,10 @@ I share coding tutorials, programming tips, and development projects through <b>
 ---
 
 <p align="center">
-<i>Think like a developer.</i><br>
-<i>Write clean and meaningful code.</i><br>
-<i>Turn ideas into working systems.</i><br>
-<i>Build systems that solve real problems.</i><br>
-<i>Keep learning. Keep improving.</i>
+<i>Think like a developer</i><br>
+<i>Write clean code</i><br>
+<i>Build systems that solve real problems</i><br>
+<i>Keep learning every day</i>
 </p>
 
 <p align="center">
