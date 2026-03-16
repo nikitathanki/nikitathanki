@@ -1,25 +1,31 @@
 <!-- =======================================
-        Nikita Thanki | Full Stack Web Developer
+        Nikita Thanki | Full Stack Developer
 ======================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Nikita+Thanki;Full+Stack+Web+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+%26+Scalable+Web+Applications" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=200&section=header&text=Nikita%20Thanki&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+%7C+C%23+%7C+SQL+Server;Building+Clean+%26+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square"/>
 </p>
 
 ---
 
 # 👋 Hello, I'm Nikita
 
-I am a **BCA final-year student** at **Dr. V. R. Godhaniya IT College**, affiliated with **Bhakta Kavi Narsinh Mehta University**.
+I am a **BCA Final-Year Student** at  
+**Dr. V. R. Godhaniya IT College**, affiliated with  
+**Bhakta Kavi Narsinh Mehta University**.
 
 My focus is **Full Stack Web Development**, building applications where the **frontend, backend, and database work together smoothly**.
 
@@ -31,20 +37,30 @@ I enjoy designing **structured web systems with clean backend logic and scalable
 
 ---
 
+# 👩‍💻 About Me
+
+• 🎓 BCA Final Year Student  
+• 💻 Full Stack Web Developer  
+• ⚙️ Focused on ASP.NET & Backend Development  
+• 🗄 Strong interest in Database Design  
+• 🚀 Currently learning scalable backend architecture  
+
+---
+
 # 💼 Internship Experience
 
 ### Software Development Intern — TechRover  
 React • Node.js • PostgreSQL
 
-During my internship I gained practical exposure to modern full stack development.
+During my internship I gained hands-on experience in modern web development.
 
 Key contributions:
 
-- Built reusable **React components**
-- Developed backend APIs using **Node.js**
-- Integrated **PostgreSQL database**
-- Implemented **CRUD operations**
-- Assisted with **authentication and debugging**
+• Built reusable **React components**  
+• Developed backend APIs using **Node.js**  
+• Integrated **PostgreSQL database**  
+• Implemented **CRUD operations**  
+• Assisted with **authentication and debugging**
 
 ---
 
@@ -64,13 +80,13 @@ ASP.NET Web Forms • C# • SQL Server
 
 Features:
 
-- User registration and login
-- Product listing from database
-- Add-to-cart functionality
-- Checkout system
-- Admin product management
-- SQL Server database design
-- Implemented **3-Tier Architecture**
+• User registration and login  
+• Product listing from database  
+• Add-to-cart functionality  
+• Checkout system  
+• Admin product management  
+• SQL Server database design  
+• Implemented **3-Tier Architecture**
 
 Repository  
 https://github.com/nikitathanki/Cremestudio
@@ -83,12 +99,12 @@ C#.NET • SQL Server • Guna UI
 
 Features:
 
-- Student management
-- Course and subject management
-- Full CRUD operations
-- SQL Server integration
-- Windows Forms UI with Guna UI
-- Implemented **2-Tier Architecture**
+• Student management  
+• Course and subject management  
+• Full CRUD operations  
+• SQL Server integration  
+• Windows Forms UI with Guna UI  
+• Implemented **2-Tier Architecture**
 
 Repository  
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
@@ -113,11 +129,11 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 # 🎯 Current Focus
 
-- ASP.NET MVC
-- REST API Development
-- Entity Framework
-- Scalable backend architecture
-- Advanced SQL
+• ASP.NET MVC  
+• REST API Development  
+• Entity Framework  
+• Scalable backend architecture  
+• Advanced SQL  
 
 ---
 
@@ -125,11 +141,11 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <p align="center">
 
-<a href="https://youtube.com/@codebynikita?si=7TCdpdl_It184oIz">
+<a href="https://youtube.com/@codebynikita">
 <img src="https://img.shields.io/badge/YouTube-CodeByNikita-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/codebynikita?igsh=b3Jyc3FyYzl4bnFt">
+<a href="https://www.instagram.com/codebynikita">
 <img src="https://img.shields.io/badge/Instagram-CodeByNikita-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
