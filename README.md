@@ -100,8 +100,6 @@ My interests:
 
 ---
 
----
-
 # 🌸 Beyond Coding
 
 <p align="center">
@@ -113,6 +111,9 @@ My interests:
 🌱 Always learning, always building
 
 </p>
+
+
+---
 
 # 📊 Skill Progress
 
