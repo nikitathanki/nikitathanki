@@ -1,51 +1,48 @@
 <!-- =====================================================
-                 Nikita Thanki | Developer Profile
+                Nikita Thanki | Full Stack Developer
 ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=280&section=header&text=Nikita%20Thanki&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B76E79&height=260&section=header&text=Nikita%20Thanki&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+Developer;C%23+%7C+SQL+Server+%7C+Web+Development;Building+Real+World+Applications;Backend+Focused+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;ASP.NET+Developer;C%23+%7C+SQL+Server+%7C+Web+Development;Building+Clean+%26+Scalable+Applications;Backend+Focused+Developer"/>
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=B76E79&style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Open%20to-Internships-B76E79?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-B76E79?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Internships-B76E79?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Web%20Development-B76E79?style=flat-square"/>
 </p>
 
 ---
 
-# 👋 About Me
+# 👋 Hello, I'm Nikita
 
-🎓 **BCA Final Year Student**
-
+🎓 BCA Final Year Student  
 Dr. V. R. Godhaniya IT College  
-Bhakta Kavi Narsinh Mehta University
+Bhakta Kavi Narsinh Mehta University  
 
-💻 Passionate about building **Full Stack Web Applications**
+💻 Passionate about **Full Stack Web Development**
 
-My focus:
+Technologies I work with:
 
-• Backend development  
-• Database architecture  
-• Clean scalable systems  
-• Real world web applications  
+ASP.NET • C# • SQL Server • HTML • CSS • JavaScript
 
 ---
 
-# 🧠 Currently Learning
+# 👩‍💻 About Me
 
-• ASP.NET Web Development  
-• Advanced SQL Server  
-• JavaScript for interactive UI  
-• Full Stack Development  
+I enjoy building structured web applications where **frontend, backend and database work together smoothly**.
+
+My interests:
+
+• Backend architecture  
+• Database design  
+• Full stack web development  
+• Clean maintainable code  
+• Building real world applications  
 
 ---
 
@@ -65,7 +62,7 @@ My focus:
 
 ---
 
-# 📊 Skill Level
+# 📊 Skill Progress
 
 HTML / CSS  
 ████████████░░ 80%
@@ -88,38 +85,34 @@ SQL Server
 
 ## 🛍 Crème Studio — E-Commerce Website
 
-Tech Stack  
 ASP.NET Web Forms • C# • SQL Server
 
 Features:
 
-• User Registration & Login  
-• Product Listing from Database  
-• Add to Cart  
-• Checkout System  
-• Admin Product Management  
-• Implemented 3-Tier Architecture
+• User authentication  
+• Product listing from database  
+• Add to cart functionality  
+• Checkout system  
+• Admin product management  
+• Implemented 3 Tier Architecture
 
 Repository  
-
 https://github.com/nikitathanki/Cremestudio
 
 ---
 
 ## 🏫 Institute Management System
 
-Tech Stack  
 C#.NET • SQL Server • Guna UI
 
 Features:
 
-• Student Management  
-• Course & Subject Modules  
-• CRUD Operations  
-• SQL Server Database Integration
+• Student management  
+• Course modules  
+• CRUD operations  
+• SQL Server integration
 
 Repository  
-
 https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
@@ -139,9 +132,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat&margin-w=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=nikitathanki&theme=flat"/>
 </p>
 
 ---
@@ -150,7 +141,7 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki"/>
 
@@ -160,40 +151,50 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 
 ---
 
+# 📊 Developer Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikitathanki&theme=github"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikitathanki&theme=github"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikitathanki&theme=github"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikitathanki&theme=github"/>
+
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki&theme=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki&bg_color=ffffff&color=B76E79&line=B76E79&point=000000&area=true&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
 
-# 🌐 Coding Content
+# 🎥 Coding Content
 
 <p align="center">
 
 <a href="https://youtube.com/@codebynikita">
-
 <img src="https://img.shields.io/badge/YouTube-CodeByNikita-red?style=for-the-badge&logo=youtube"/>
-
 </a>
 
 <a href="https://instagram.com/codebynikita">
-
 <img src="https://img.shields.io/badge/Instagram-CodeByNikita-pink?style=for-the-badge&logo=instagram"/>
-
 </a>
 
 </p>
@@ -205,15 +206,11 @@ https://github.com/nikitathanki/INSTITUTEMANAGEMENT
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397">
-
 <img src="https://img.shields.io/badge/LinkedIn-Nikita%20Thanki-blue?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="mailto:thankinikita32@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-
 </a>
 
 </p>
