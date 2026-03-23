@@ -52,7 +52,8 @@ HTML • CSS • JavaScript • ASP.NET • C# • SQL Server
 
 <p align="center">  
 <img src="officedesk.gif" width="500"/>  
-</p> 
+</p>
+ 
 ---
 
 # 👩‍💻 About Me
