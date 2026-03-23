@@ -49,10 +49,10 @@ HTML • CSS • JavaScript • ASP.NET • C# • SQL Server
 
 # 👩‍💻 Coding Life
 
-<p align="center">
-<img src="officedesk.gif" width="500"/>
-</p>
 
+<p align="center">  
+<img src="officedesk.gif" width="500"/>  
+</p> 
 ---
 
 # 👩‍💻 About Me
