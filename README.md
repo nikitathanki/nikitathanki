@@ -123,6 +123,10 @@ My interests:
 
 # 🎥 CodeByNikita
 
+<a href="https://instagram.com/wordsofnikita">
+<img src="https://img.shields.io/badge/Instagram-wordsofnikita-FF69B4?style=for-the-badge&logo=instagram"/>
+</a>
+
 <p align="center">
 <a href="https://youtube.com/@codebynikita">
 <img src="https://img.shields.io/badge/YouTube-CodeByNikita-FF69B4?style=for-the-badge&logo=youtube"/>
