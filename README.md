@@ -88,8 +88,8 @@ My interests:
 ## 🛍 Crème Studio — E-Commerce Website
 
 <p align="center">
-<a href="https://github.com/nikitathanki/Cremestudio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=Cremestudio&title_color=FF69B4&icon_color=FF69B4"/>
+<a href="https://github.com/nikitathanki/CremeStudio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=CremeStudio&title_color=FF69B4&icon_color=FF69B4"/>
 </a>
 </p>
 
