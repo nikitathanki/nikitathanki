@@ -83,46 +83,6 @@ My interests:
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛍 Crème Studio — E-Commerce Website
-
-<p align="center">
-<a href="https://github.com/nikitathanki/CremeStudio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=CremeStudio&title_color=FF69B4&icon_color=FF69B4"/>
-</a>
-</p>
-
----
-
-## 🏫 Institute Management System
-
-<p align="center">
-<a href="https://github.com/nikitathanki/INSTITUTEMANAGEMENT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitathanki&repo=INSTITUTEMANAGEMENT&title_color=FF69B4&icon_color=FF69B4"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&title_color=FF69B4&icon_color=FF69B4"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitathanki&ring=FF69B4&fire=FF69B4"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&title_color=FF69B4"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitathanki&bg_color=ffffff&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true"/>
-</p>
-
----
-
 # 📺 Content & Community
 
 <p align="center">
