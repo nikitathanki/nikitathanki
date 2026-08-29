@@ -158,27 +158,6 @@ I believe in learning by building and improving through practical experience.
 </p>
 
 ---
-
-# 📺 Content & Community
-
-<p align="center">
-
-<a href="https://youtube.com/@codebynikita">
-<img src="https://img.shields.io/badge/YouTube-CodeByNikita-FF69B4?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="https://instagram.com/codebynikita">
-<img src="https://img.shields.io/badge/Instagram-CodeByNikita-FF69B4?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://facebook.com/CodeByNikita">
-<img src="https://img.shields.io/badge/Facebook-CodeByNikita-FF69B4?style=for-the-badge&logo=facebook"/>
-</a>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
