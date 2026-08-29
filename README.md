@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=M.Sc.+IT+Student;Data+Science+%26+AI+Enthusiast;Machine+Learning+Learner;Python+%7C+SQL+%7C+Data+Analytics;Always+Learning+and+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=M.Sc.+IT+Student;Data+Science+%26+AI+Enthusiast;Machine+Learning+Learner;Python+%7C+Django+%7C+SQL;Always+Learning+and+Building"/>
 </p>
 
 <p align="center">
-📊 Exploring Data Science, Artificial Intelligence & Machine Learning <br>
+📊 Exploring Data Science, Artificial Intelligence & Machine Learning
+<br>
 🚀 Building practical projects and continuously learning
 </p>
 
@@ -28,22 +29,57 @@
 
 📊 Passionate about **Data Science, Artificial Intelligence & Machine Learning**
 
-💡 Currently exploring Python, Machine Learning and Data Analytics while continuing to strengthen my software development skills.
+💻 Interested in building practical software systems and solving real-world problems through technology and data.
 
-Technologies I work with:
+Currently working with:
 
-HTML • CSS • JavaScript • ASP.NET • C# • SQL Server
+**Python • Django • SQL • HTML • CSS • JavaScript • C# • ASP.NET**
 
 ---
 
 # 📚 Currently Learning
 
-• Python for Data Science
-• Machine Learning
-• Data Analytics
-• Statistics
-• Data Visualization
-• Artificial Intelligence
+- Python for Data Science
+- Machine Learning
+- Data Analytics
+- Statistics
+- Data Visualization
+- Artificial Intelligence
+- Django Web Development
+- Database Design
+
+---
+
+# 🚀 Current Project
+
+## Asetonix
+
+**Enterprise Asset Management System**
+
+Asetonix is a web-based Enterprise Asset Management System designed to help organizations manage and track assets throughout their lifecycle.
+
+The project focuses on:
+
+- Asset Management
+- Employee Management
+- Asset Assignment
+- Asset Transfers
+- Maintenance Management
+- Asset Retirements
+- Categories, Brands & Models
+- Departments & Locations
+- Audit Trail
+- Asset Health
+- Utilization Analysis
+- Risk Analysis
+- Cost Analysis
+- Alerts
+- Users & Roles
+- Dashboard & Analytics
+- Reports
+- Data Export
+
+**Technology:** Python • Django • SQLite • HTML • CSS • JavaScript
 
 ---
 
@@ -57,27 +93,67 @@ HTML • CSS • JavaScript • ASP.NET • C# • SQL Server
 
 # 👩‍💻 About Me
 
-I enjoy solving real-world problems through data and continuously expanding my technical skills.
+I enjoy learning new technologies, building practical projects, and exploring how data and software can be used to solve real-world problems.
 
-My interests:
+My interests include:
 
-• Data Science
-• Artificial Intelligence
-• Machine Learning
-• Data Analytics
-• Problem Solving
-• Creating practical projects
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Python Development
+- Web Development
+- Database Management
+- Problem Solving
+- Software Engineering
+
+I believe in learning by building and improving through practical experience.
 
 ---
 
 # ⚡ Tech Stack
 
+### Programming & Development
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,cs"/>
+<img src="https://skillicons.dev/icons?i=django,dotnet"/>
+</p>
+
+### Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github"/>
+</p>
+
+---
+
+# 📊 Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-FF69B4?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-FF69B4?style=for-the-badge"/>
 
 </p>
 
@@ -86,6 +162,7 @@ My interests:
 # 📺 Content & Community
 
 <p align="center">
+
 <a href="https://youtube.com/@codebynikita">
 <img src="https://img.shields.io/badge/YouTube-CodeByNikita-FF69B4?style=for-the-badge&logo=youtube"/>
 </a>
@@ -94,9 +171,10 @@ My interests:
 <img src="https://img.shields.io/badge/Instagram-CodeByNikita-FF69B4?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://facebook.com/codebynikita">
+<a href="https://facebook.com/CodeByNikita">
 <img src="https://img.shields.io/badge/Facebook-CodeByNikita-FF69B4?style=for-the-badge&logo=facebook"/>
 </a>
+
 </p>
 
 ---
@@ -104,6 +182,7 @@ My interests:
 # 📫 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/nikita-thanki-543a7b397">
 <img src="https://img.shields.io/badge/LinkedIn-Nikita%20Thanki-FF69B4?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -111,6 +190,7 @@ My interests:
 <a href="mailto:thankinikita32@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-FF69B4?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
