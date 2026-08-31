@@ -36,10 +36,6 @@ src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&colo
 alt="Profile Views"
 />
 
-<img
-src="https://img.shields.io/github/followers/nikitathanki?label=Followers&style=flat-square&color=FF69B4"
-alt="GitHub Followers"
-/>
 
 </div>
 
