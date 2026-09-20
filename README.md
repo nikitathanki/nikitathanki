@@ -50,7 +50,7 @@ My approach is simple:
 
 > **Learn the fundamentals → Build projects → Experiment → Improve → Repeat**
 
-I enjoy working on projects that solve practical problems rather than building applications just for the sake of learning a framework.
+I enjoy working on projects that solve practical problems and help me understand technology through hands-on development.
 
 My current direction is toward **Data Science, AI/ML and intelligent software systems**, while continuing to strengthen my backend, database and software engineering skills.
 
