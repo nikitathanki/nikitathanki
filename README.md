@@ -1,19 +1,21 @@
 <!-- =====================================================
-        NIKITA THANKI | GITHUB PROFILE
+          NIKITA THANKI | GITHUB PROFILE
 ===================================================== --><div align="center"><img
 src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Nikita%20Thanki&fontSize=48&fontColor=ffffff&animation=fadeIn"
 alt="Nikita Thanki"
 />
 
 <br><img
-src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=M.Sc.+IT+Student;Data+Science+%26+AI+Enthusiast;Machine+Learning+Learner;Python+%7C+Django+%7C+SQL;Building+Practical+Technology+Projects"
+src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=27&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=M.Sc.+IT+Student;Data+Science+%26+AI+Enthusiast;Machine+Learning+Learner;Python+%7C+Django+%7C+SQL;Building+Practical+Technology+Projects"
 alt="Typing Animation"
 />
 
-<br><p>
+<br><br>
+
+<p>
 <strong>Data Science • Artificial Intelligence • Machine Learning • Software Development</strong>
 </p><p>
-Building practical, data-driven applications while learning, experimenting, and growing every day.
+Building practical, data-driven and intelligent solutions while continuously learning and experimenting.
 </p><br><img
 src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=FF69B4&style=flat-square"
 alt="Profile Views"
@@ -25,29 +27,27 @@ alt="Profile Views"
 
 🎓 M.Sc. IT Student
 
-📊 Interested in Data Science, Artificial Intelligence & Machine Learning
+📊 Exploring Data Science, Artificial Intelligence & Machine Learning
 
-💻 Exploring Python, Django, SQL, Data Analytics, and Software Development
+🐍 Building with Python, Django, SQL and modern web technologies
 
-🤖 Interested in building intelligent, data-driven applications
+💡 Interested in data-driven applications, intelligent systems, analytics and software development
 
-🚀 I enjoy turning ideas into practical projects and learning through hands-on development.
-
-🌱 Currently focused on strengthening my foundations in Data Science, AI/ML, backend development, databases, and problem solving.
+🚀 Currently focused on turning ideas into practical projects and strengthening my technical foundations.
 
 ---
 
 🧠 About Me
 
-I'm a technology enthusiast currently pursuing my M.Sc. IT, with a growing interest in the intersection of software, data, and artificial intelligence.
-
-I enjoy understanding how technology works, experimenting with new ideas, and turning concepts into working projects.
+I'm a technology enthusiast interested in the intersection of software, data and artificial intelligence.
 
 My approach is simple:
 
-«Learn the fundamentals → Build projects → Experiment → Improve»
+«Learn the fundamentals → Build projects → Experiment → Improve → Repeat»
 
-I'm particularly interested in technology that can solve practical problems rather than simply demonstrating a concept.
+I enjoy working on projects that solve practical problems rather than building applications just for the sake of learning a framework.
+
+My current direction is toward Data Science, AI/ML and intelligent software systems, while continuing to strengthen my backend, database and software engineering skills.
 
 Areas I'm interested in
 
@@ -57,28 +57,29 @@ Areas I'm interested in
 - 📈 Data Analytics
 - 🐍 Python Development
 - 🌐 Django Development
-- 🗄️ Database Management
+- 🗄️ SQL & Database Systems
 - 📊 Data Visualization
-- ⚙️ Backend Development
-- 🧩 Software Engineering
-- 🔍 Predictive Analytics
-- 💡 Intelligent Systems
+- 💻 Software Engineering
+- ⚙️ Automation
+- 🧩 Problem Solving
 
 ---
 
 👩‍💻 Women in Tech
 
-Proud to be learning, building, and growing in technology.
+Proud to be learning, building and growing in technology.
 
-I believe curiosity, consistency, and practical experience can create opportunities to build meaningful things.
+I believe technology becomes more meaningful when curiosity turns into creation.
 
 «Learn. Build. Grow. Inspire.»
 
-<p align="center"><img src="https://img.shields.io/badge/%23WomenInTech-FF69B4?style=for-the-badge" alt="Women in Tech"/><img src="https://img.shields.io/badge/%23WomenWhoCode-FF69B4?style=for-the-badge" alt="Women Who Code"/><img src="https://img.shields.io/badge/%23GirlsWhoCode-FF69B4?style=for-the-badge" alt="Girls Who Code"/></p>---
+<p align="center"><img src="https://img.shields.io/badge/Women%20in%20Tech-FF69B4?style=for-the-badge" alt="Women in Tech"/><img src="https://img.shields.io/badge/Women%20Who%20Code-FF69B4?style=for-the-badge" alt="Women Who Code"/><img src="https://img.shields.io/badge/Girls%20Who%20Code-FF69B4?style=for-the-badge" alt="Girls Who Code"/></p>---
 
 📚 Currently Learning
 
-<div align="center">Python
+My current learning path is focused on building a strong foundation in Data Science and AI.
+
+Python
   ↓
 Statistics
   ↓
@@ -94,7 +95,7 @@ Predictive Analytics
   ↓
 Intelligent Applications
 
-</div>Current learning areas
+Current learning areas
 
 - Python for Data Science
 - Statistics
@@ -109,31 +110,33 @@ Intelligent Applications
 
 ---
 
-🚀 Featured Projects
+🚀 Featured Project
 
 🏢 Asetonix
 
 Enterprise Asset Intelligence Platform
 
-Asetonix is a web-based Enterprise Asset Management and Asset Intelligence platform focused on managing, tracking, analyzing, and optimizing organizational assets throughout their lifecycle.
+Asetonix is a web-based Enterprise Asset Management and Asset Intelligence Platform designed to help organizations manage, track, analyze and optimize assets throughout their lifecycle.
 
-Core Features
+The project goes beyond basic CRUD functionality by exploring how analytics, AI and intelligent automation can improve asset management.
+
+🔹 Core Features
 
 - Asset Management
+- Employee Management
 - Asset Assignment
 - Asset Return
-- Asset Transfer
+- Asset Transfers
 - Maintenance Management
 - Asset Retirement
 - Asset Lifecycle Tracking
-- Employee Management
-- Departments
-- Locations
+- Audit Trail
 - Categories
 - Brands
 - Models
+- Departments
+- Locations
 - Users & Roles
-- Audit Trail
 - Alerts
 - Asset Health
 - Utilization Analysis
@@ -143,106 +146,95 @@ Core Features
 - Reports
 - CSV Export
 
-Intelligence Layer
+🤖 Intelligent Asset Management
 
-The long-term direction of Asetonix goes beyond traditional CRUD functionality toward an intelligent asset management system.
+The long-term direction of Asetonix is to evolve from a traditional asset management system into an Enterprise Asset Intelligence Platform.
 
-Asset Data
-    ↓
-Data Processing
-    ↓
-Analytics
-    ↓
-AI Insights
-    ↓
-Risk Prediction
-    ↓
-Predictive Maintenance
-    ↓
-Anomaly Detection
-    ↓
-Recommendations
-    ↓
-Better Business Decisions
+              Asset Data
+                  ↓
+              Analytics
+                  ↓
+             AI Insights
+                  ↓
+            Risk Prediction
+                  ↓
+         Predictive Maintenance
+                  ↓
+          Anomaly Detection
+                  ↓
+          Recommendations
+                  ↓
+          Business Decisions
 
-Future Development
+🔮 Future Direction
 
-- 🤖 AI-powered asset insights
-- 🔮 Predictive maintenance
-- ⚠️ Predictive risk analysis
-- 🔍 Anomaly detection
-- ♻️ Asset replacement recommendations
-- 💰 Total Cost of Ownership analysis
-- 📊 Advanced business intelligence
-- 📈 Interactive dashboards
-- 📉 Advanced data visualization
-- 🧊 Interactive 3D asset visualization
-- ⚙️ Workflow automation
-- 🔔 Intelligent alerts
+- AI-powered asset insights
+- Predictive maintenance
+- Predictive risk analysis
+- Anomaly detection
+- Asset replacement recommendations
+- Total Cost of Ownership analysis
+- Business intelligence
+- Advanced dashboards
+- Data visualization
+- Interactive 3D asset visualization
+- Workflow automation
+- Approval workflows
+- Intelligent alerts
+- Decision-support systems
 
-Technology
+🛠️ Technology
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,django,sqlite,javascript,html,css" alt="Asetonix Technologies"/></p>---
+<p align="center"><img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/Django-FF69B4?style=for-the-badge&logo=django&logoColor=white" alt="Django"/><img src="https://img.shields.io/badge/SQLite-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/><img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/></p>---
+
+🧪 Other Projects & Work
 
 📊 Statify
 
 Data & Analytics Project
 
-Statify is a data-focused project developed as part of my academic project work, exploring the use of data analysis, visualization, and intelligent insights to turn raw information into meaningful results.
+A project focused on exploring data, analytics and meaningful insights through practical implementation.
 
-The project focuses on applying practical concepts from Data Science and AI rather than keeping the work purely theoretical.
+The goal is to transform raw data into understandable information that can support better decision-making.
 
-Areas explored
+Focus:
 
-- Data Processing
 - Data Analysis
 - Data Visualization
-- Statistical Insights
-- Interactive Results
-- Intelligent Data Interpretation
+- Statistical Thinking
+- Insights
+- Practical Data Applications
 
 ---
 
 💧 Saurashtra WaterWise AI
 
-AI-Based Water Intelligence Project
+AI-Powered Water Intelligence
 
-Saurashtra WaterWise AI explores how artificial intelligence and data-driven approaches can be used to address water-related challenges in the Saurashtra region.
+An AI-focused project exploring how technology and data can be used to understand and address water-related challenges in the Saurashtra region.
 
-The project combines:
+Focus areas:
 
-Data
- +
-AI
- +
-Analytics
- +
-Visualization
- ↓
-Water Intelligence
-
-Focus Areas
-
-- Water-related data analysis
-- AI-based insights
-- Data visualization
+- Artificial Intelligence
+- Data-driven insights
+- Water intelligence
+- Predictive analysis
 - Regional problem solving
-- Intelligent recommendations
-- Technology for social impact
+- Practical AI applications
 
 ---
 
 ⚡ Tech Stack
 
-Programming Languages
+👩‍💻 Programming Languages
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,cs,javascript,html,css" alt="Programming Languages"/></p>Frameworks & Development
+<p align="center"><img src="https://skillicons.dev/icons?i=python,cs,js,html,css" alt="Programming Languages"/></p>🌐 Frameworks & Development
 
-<p align="center"><img src="https://skillicons.dev/icons?i=django,dotnet,bootstrap" alt="Frameworks"/></p>Databases
+<p align="center"><img src="https://skillicons.dev/icons?i=django,dotnet,bootstrap" alt="Frameworks"/></p>🗄️ Databases
 
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases"/></p>Data & AI
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases"/></p>📊 Data & AI
 
-<p align="center"><img src="https://img.shields.io/badge/Python%20for%20Data%20Science-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python for Data Science"/><img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge" alt="Machine Learning"/><img src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge" alt="Artificial Intelligence"/><img src="https://img.shields.io/badge/Data%20Analytics-FF69B4?style=for-the-badge" alt="Data Analytics"/></p>Tools
+<p align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python"/><img src="https://img.shields.io/badge/Data%20Science-FF69B4?style=for-the-badge" alt="Data Science"/><img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge" alt="Machine Learning"/><img src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge" alt="Artificial Intelligence"/></p>🛠️ Tools
 
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" alt="Development Tools"/></p>---
 
@@ -250,119 +242,113 @@ Programming Languages
 
 <p align="center"><img src="https://img.shields.io/badge/Data%20Science-FF69B4?style=for-the-badge" alt="Data Science"/><img src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge" alt="Artificial Intelligence"/><img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge" alt="Machine Learning"/></p><p align="center"><img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/Django-FF69B4?style=for-the-badge&logo=django&logoColor=white" alt="Django"/><img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge" alt="SQL"/><img src="https://img.shields.io/badge/Data%20Analytics-FF69B4?style=for-the-badge" alt="Data Analytics"/></p>---
 
-💻 Coding Life
-
-<p align="center"><img src="officedesk.gif" width="500" alt="Coding Life"/></p>---
-
 🧩 What I Like Building
 
 I enjoy building projects where multiple areas of technology come together.
 
-Software
-   +
-Data
-   +
-AI
-   +
-Automation
-   +
-Visualization
-   ↓
-Practical Solutions
+             Software
+                 +
+                Data
+                 +
+                 AI
+                 +
+             Automation
+                 +
+           Visualization
+                 ↓
+        Practical Solutions
 
-I'm especially interested in projects that:
+I'm especially interested in applications that can:
 
-- Solve real-world problems
-- Use data to support decisions
+- Solve a real-world problem
+- Work with meaningful data
 - Automate repetitive tasks
-- Turn complex information into useful insights
-- Can evolve beyond a basic prototype
-- Combine software engineering with AI
+- Generate useful insights
+- Support better decisions
+- Grow into scalable systems
 
 ---
 
+💻 Coding Life
+
+<p align="center"><img src="officedesk.gif" width="500" alt="Coding Life"/></p>---
+
 🌱 My Learning Approach
 
-Learn
-  ↓
-Understand
-  ↓
-Practice
-  ↓
-Build
-  ↓
-Experiment
-  ↓
-Analyze
-  ↓
-Improve
-  ↓
-Build Better
+       Learn
+         ↓
+     Understand
+         ↓
+      Practice
+         ↓
+       Build
+         ↓
+    Experiment
+         ↓
+      Improve
+         ↓
+   Build Better
 
-I believe the best way to learn technology is to combine strong fundamentals with practical projects.
+I don't want to only learn technologies.
+
+I want to understand why they work, where they are useful, and how they can be applied to real problems.
 
 ---
 
 🎯 Goals
 
-- Strengthen programming fundamentals
-- Build strong Data Science foundations
-- Improve statistical thinking
-- Develop practical Machine Learning projects
+- Build strong programming fundamentals
+- Develop a solid Data Science foundation
+- Strengthen statistics and analytical thinking
+- Build practical Machine Learning projects
 - Explore Artificial Intelligence
-- Build intelligent applications
+- Learn to develop intelligent applications
 - Improve backend development skills
 - Strengthen SQL and database knowledge
-- Learn advanced data visualization
-- Develop industry-relevant projects
 - Improve software engineering practices
-- Solve real-world problems using technology
-- Keep learning and experimenting
+- Work with real-world datasets
+- Build industry-relevant projects
+- Develop data-driven solutions
+- Keep learning through hands-on experience
 
 ---
 
-📌 What I'm Exploring
+🔍 What I'm Exploring
 
-Area| Focus
-📊 Data Science| Data analysis, statistics, and insights
-🤖 Artificial Intelligence| Intelligent applications and systems
-🧠 Machine Learning| Predictive models and pattern recognition
-📈 Data Analytics| Finding patterns and supporting decisions
-🐍 Python| Data Science and application development
+Area| Current Focus
+📊 Data Science| Data analysis, statistics and insights
+🤖 Artificial Intelligence| Intelligent applications and AI systems
+🧠 Machine Learning| Predictive models and practical ML
+📈 Data Analytics| Patterns, trends and decision support
+🐍 Python| Data science and application development
 🌐 Django| Backend and web application development
 🗄️ SQL| Database design and querying
-📊 Data Visualization| Turning data into understandable insights
-⚙️ Software Engineering| Building maintainable and practical systems
+📊 Visualization| Turning data into understandable insights
+⚙️ Automation| Building efficient workflows and systems
 
 ---
 
-📈 Developer Journey
+📈 My Direction
 
-Web Development
-       ↓
 Software Development
-       ↓
-Python & Backend
-       ↓
-Data & Databases
-       ↓
-Data Analytics
-       ↓
+        +
+Data Science
+        +
 Machine Learning
-       ↓
+        +
 Artificial Intelligence
-       ↓
-Intelligent Software
+        ↓
+Intelligent Software Systems
 
-I'm continuously expanding my skills while connecting software development with data and AI.
+My goal is to gradually combine my software development experience with Data Science and AI to build applications that are not only functional, but also intelligent and useful.
 
 ---
 
 💭 A Little Philosophy
 
-«Stay curious. Keep learning. Build with purpose.»
+«Stay curious. Learn deeply. Build with purpose.»
 
-Every project is an opportunity to understand something better, solve a problem, and become a better developer.
+Every project is an opportunity to understand something better, solve a problem and improve.
 
 ---
 
@@ -373,7 +359,7 @@ src="https://img.shields.io/badge/LinkedIn-Nikita%20Thanki-FF69B4?style=for-the-
 alt="LinkedIn"
 />
 
-</a>  
+</a> 
 
 <a href="mailto:thankinikita32@gmail.com"><img
 src="https://img.shields.io/badge/Gmail-Contact%20Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"
@@ -384,7 +370,7 @@ alt="Email"
 
 <div align="center">💗 Thanks for visiting my profile!
 
-Keep Learning • Keep Building • Keep Growing
+Learn • Build • Experiment • Grow
 
 <br><img
 src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"
