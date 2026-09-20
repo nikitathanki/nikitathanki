@@ -4,17 +4,11 @@
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Nikita%20Thanki&fontSize=48&fontColor=ffffff&animation=fadeIn"
-alt="Nikita Thanki"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Nikita%20Thanki&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Nikita Thanki"/>
 
 <br>
 
-<img
-src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=27&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=M.Sc.+IT+Student;Data+Science+%26+AI+Enthusiast;Machine+Learning+Learner;Python+%7C+Django+%7C+SQL;Building+Practical+Technology+Projects"
-alt="Typing Animation"
-/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=27&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=M.Sc.+IT+Student;Data+Science+%26+AI+Enthusiast;Machine+Learning+Learner;Python+%7C+Django+%7C+SQL;Building+Practical+Technology+Projects" alt="Typing Animation"/>
 
 <br><br>
 
@@ -28,10 +22,7 @@ Building practical, data-driven and intelligent solutions while continuously lea
 
 <br>
 
-<img
-src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=FF69B4&style=flat-square"
-alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=nikitathanki&label=Profile%20Views&color=FF69B4&style=flat-square" alt="Profile Views"/>
 
 </div>
 
