@@ -5,47 +5,49 @@
 ### M.Sc. IT Student • Data Science & AI • Developer
 
 <p>
-  <b>Building practical projects while growing in Data Science, AI and Software Development.</b>
+  <b>Building practical projects with code, data and technology.</b>
 </p>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitathanki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-thanki/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thankinikita32@gmail.com)
+<a href="https://github.com/nikitathanki">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nikita-thanki/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br>
+<br><br>
 
-![Women in Tech](https://img.shields.io/badge/👩🏻‍💻_Women_in_Tech-Proud_to_Build-ff69b4?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science_&_AI-Exploring-7c3aed?style=for-the-badge)
+<img src="https://img.shields.io/badge/Women%20in%20Tech-FF69B4?style=for-the-badge&logo=women&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science%20%26%20AI-6C3CE1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Always%20Learning-111827?style=for-the-badge" />
 
 </div>
 
 ---
 
-## ✨ About Me
+## ✦ About Me
 
 <table>
 <tr>
 <td width="60%">
 
-### Hello, I'm Nikita 👋🏻
+### Hello, I'm Nikita 👋
 
-I'm an **M.Sc. IT student at GLS University**, currently exploring **Data Science, Artificial Intelligence, Machine Learning and Software Development**.
+I'm an **M.Sc. IT student at GLS University**, focused on **Data Science and Artificial Intelligence**.
 
-I enjoy learning by building practical projects and turning concepts into working applications.
+I enjoy learning by building practical projects that connect:
 
-I'm especially interested in:
-
-- 📊 Data Science & Analytics
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python Development
-- 🗄️ Databases & SQL
-- 🌐 Web & Backend Development
+- 💻 Programming
+- 📊 Data & Analytics
+- 🤖 Artificial Intelligence
+- 🗄️ Databases
+- 🌐 Web Development
 - 🔐 Cybersecurity
-- 📈 Data Visualization
 
-I'm still growing as a developer, and I believe strong fundamentals, consistent practice and real projects are the best way to improve.
+I believe the best way to learn technology is to understand the fundamentals, write code, build projects, test ideas and keep improving.
 
 </td>
 
@@ -53,23 +55,12 @@ I'm still growing as a developer, and I believe strong fundamentals, consistent 
 
 ### ⚡ Quick Profile
 
-🎓 **Education**  
-M.Sc. IT
-
-🏫 **University**  
-GLS University
-
-🎯 **Focus**  
-Data Science & AI
-
-💻 **Interested In**  
-Python • SQL • ML
-
-👩🏻‍💻 **Women in Tech**  
-Proud to build in tech
-
-🌱 **Learning Style**  
-Learn • Build • Improve
+🎓 **M.Sc. IT**  
+📍 **GLS University**  
+🧠 **Data Science & AI**  
+💻 **Developer**  
+📊 **Data & Analytics**  
+👩🏻‍💻 **Women in Tech**
 
 </td>
 </tr>
@@ -77,82 +68,105 @@ Learn • Build • Improve
 
 ---
 
-## 🛠️ Tech Stack
+## 👩🏻‍💻 Women in Tech
 
-### 💻 Programming & Web
+<div align="center">
 
-<p align="center">
+### Proud to be building my journey in technology.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Curious enough to learn.  
+Brave enough to build.  
+Persistent enough to improve.**
 
-</p>
-
-### 🌐 Frameworks & Development
-
-<p align="center">
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-</p>
-
-### 📊 Data Science & AI
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Tech Stack
+
+## 💻 Programming & Web
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</div>
+
+---
+
+## 🌐 Frameworks & Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 Data Science & AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+
+</div>
+
+---
+
+## 🔧 Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🏢 Asetonix
+## 🏢 Asetonix
 
-**Asset Management & Cost Analysis System**
+### Asset Management & Cost Analysis System
 
-A Django-based project focused on asset management, cost analysis, depreciation and reporting.
+A Django-based application focused on asset management, cost analysis, depreciation and reporting.
 
 **Core Areas**
 
@@ -161,25 +175,27 @@ A Django-based project focused on asset management, cost analysis, depreciation 
 - Depreciation
 - Employee management
 - Location management
-- Dashboard & reports
+- Reports & analytics
 
 **Tech**
 
-`Python` `Django` `PostgreSQL` `Analytics`
+`Python` `Django` `PostgreSQL` `SQL`
 
 <br>
 
-[![Explore Repository](https://img.shields.io/badge/Explore_Repository-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitathanki/Asetonix)
+<a href="https://github.com/nikitathanki/Asetonix">
+<img src="https://img.shields.io/badge/Explore%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%">
 
-### 💧 Saurashtra WaterWise AI
+## 💧 Saurashtra Waterwise AI
 
-**Intelligent Water Management Platform**
+### Intelligent Water Management Platform
 
-An AI-focused project designed around drought awareness, groundwater depletion and regional water-management insights.
+An AI-focused project designed around water analysis, drought awareness and groundwater depletion in the Saurashtra region.
 
 **Core Areas**
 
@@ -191,11 +207,13 @@ An AI-focused project designed around drought awareness, groundwater depletion a
 
 **Tech**
 
-`AI` `IBM Granite` `IBM Cloud` `JavaScript`
+`AI` `IBM Granite` `IBM Cloud`
 
 <br>
 
-[![Explore Repository](https://img.shields.io/badge/Explore_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitathanki/saurashtra-waterwise-ai)
+<a href="https://github.com/nikitathanki/saurashtra-waterwise-ai">
+<img src="https://img.shields.io/badge/Explore%20Repository-6C3CE1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -205,11 +223,11 @@ An AI-focused project designed around drought awareness, groundwater depletion a
 
 <td width="50%">
 
-### 🔐 SecureGate
+## 🔐 SecureGate
 
-**Security-Focused Django Application**
+### Security-Focused Django Application
 
-A practical project focused on implementing essential web application security concepts.
+A practical web application focused on implementing essential web security concepts.
 
 **Implemented**
 
@@ -225,16 +243,16 @@ A practical project focused on implementing essential web application security c
 
 <td width="50%">
 
-### 🎟️ Self Ticket Booking
+## 🎫 Self Ticket Booking
 
-**Web Application Project**
+### Web Application Project
 
 A web development project focused on application flow, user interaction and frontend development.
 
 **Core**
 
-- User interaction
 - Frontend development
+- User interaction
 - Application workflow
 
 **Tech**
@@ -248,45 +266,39 @@ A web development project focused on application flow, user interaction and fron
 
 ---
 
-## 📜 Certifications & Learning
+# 🎓 Certifications
 
-| Certification / Learning | Platform |
-|---|---|
-| 🏆 Microsoft Power BI Data Analyst Associate — PL-300 | Microsoft |
-| 🐍 Explore and analyze data with Python | Microsoft Learn |
-| 🤖 Get started with generative AI and agents in Azure | Microsoft Learn |
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst%20Associate-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-## 🎓 Education
+<br><br>
 
-### M.Sc. Information Technology
+<img src="https://img.shields.io/badge/Microsoft%20Learn-Explore%20and%20Analyze%20Data%20with%20Python-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-**GLS University**
+<br><br>
 
-**Focus:** Data Science & Artificial Intelligence
+<img src="https://img.shields.io/badge/Microsoft%20Learn-Generative%20AI%20%26%20Agents%20in%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+</div>
 
 ---
 
-### Bachelor of Computer Applications
+# 📈 GitHub Activity
 
-**Dr. V. R. Godhaniya IT College, Porbandar**
+<div align="center">
 
-Affiliated with **BKNMU**
+<img src="https://github-readme-stats.vercel.app/api?username=nikitathanki&show_icons=true&hide_border=true&theme=transparent&title_color=FF69B4&icon_color=FF69B4&text_color=9CA3AF&rank_icon=github" />
 
----
+<br><br>
 
-## 👩🏻‍💻 Women in Tech
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitathanki&layout=compact&hide_border=true&theme=transparent&title_color=FF69B4&text_color=9CA3AF" />
 
-> **Proud to be building my journey in technology.**
-
-Being a woman in tech, for me, is about learning continuously, asking questions, building things and having the confidence to keep going when something doesn't work the first time.
-
-**Learn. Build. Improve.**
+</div>
 
 ---
 
-## 🧠 My Approach
+# 💡 How I Learn
 
 <div align="center">
 
@@ -294,51 +306,92 @@ Being a woman in tech, for me, is about learning continuously, asking questions,
 
 <br>
 
-`Curiosity` &nbsp;&nbsp; `Fundamentals` &nbsp;&nbsp; `Practice` &nbsp;&nbsp; `Projects` &nbsp;&nbsp; `Consistency`
+`Curiosity` &nbsp;&nbsp;
+`Fundamentals` &nbsp;&nbsp;
+`Practice` &nbsp;&nbsp;
+`Projects` &nbsp;&nbsp;
+`Consistency`
+
+<br><br>
+
+> **Every project teaches something a tutorial never could.**
 
 </div>
 
 ---
 
-## 🌱 Currently Growing In
+# 🎯 What I Care About
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="25%">
 
-![Python](https://img.shields.io/badge/Python-Deepening-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-Learning-150458?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Exploring-F7931E?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Practice-4479A1?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Exploring-7C3AED?style=for-the-badge)
+### 📊
+**Data**
 
-</p>
+Turning data into useful insights.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI**
+
+Learning how intelligent systems work.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+**Development**
+
+Building practical applications.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+**Security**
+
+Creating safer digital experiences.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💬 A Little More About Me
-
-- 🔍 I enjoy understanding **how things work**, not just memorizing them.
-- 💻 I learn best through **hands-on coding and projects**.
-- 📊 I'm particularly interested in the combination of **data + technology + AI**.
-- 🗄️ I enjoy working with **databases and SQL**.
-- 🌱 Currently strengthening my programming fundamentals and building toward advanced Data Science & AI.
-- 👩🏻‍💻 Proud to grow as a **woman in tech**.
-
----
-
-## 🤝 Let's Connect
+# 🌱 Currently Growing Through
 
 <div align="center">
 
-If you're interested in **Data Science, AI, Software Development or technology**, feel free to connect.
+**Python** • **Data Structures** • **SQL** • **Data Analysis** • **Machine Learning** • **AI**
 
-<br>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitathanki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-thanki/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thankinikita32@gmail.com)
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/nikitathanki">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/nikita-thanki/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <br><br>
 
-### ✨ Learn • Build • Grow
+### 💻 Building. Learning. Improving.
+
+**Thanks for visiting my profile!** ✨
 
 </div>
